@@ -1,0 +1,36 @@
+name: Refresh job data
+
+on:
+  schedule:
+    # 06:00 KST daily (21:00 UTC previous day)
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Run pipeline
+        run: python3 pipeline/run.py --out web/data
+
+      - name: Commit data changes
+        run: |
+          git config user.name "joblab-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add web/data web/lib/stack-names.ts
+          if git diff --cached --quiet; then
+            echo "No data changes today."
+          else
+            git commit -m "data: daily refresh $(date -u +%F)"
+            git push
+          fi

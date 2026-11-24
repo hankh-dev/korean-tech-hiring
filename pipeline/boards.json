@@ -1,0 +1,302 @@
+[
+  {
+    "slug": "coupang",
+    "name": "쿠팡",
+    "type": "korean",
+    "ats": "greenhouse",
+    "token": "coupang",
+    "homepage": "https://www.coupang.com",
+    "careers": "https://www.coupang.jobs",
+    "description": "이커머스와 물류를 아우르는 국내 대표 플랫폼"
+  },
+  {
+    "slug": "krafton",
+    "name": "크래프톤",
+    "type": "korean",
+    "ats": "greenhouse",
+    "token": "krafton",
+    "homepage": "https://www.krafton.com",
+    "careers": "https://www.krafton.com/careers",
+    "description": "배틀그라운드로 대표되는 게임·AI 기업"
+  },
+  {
+    "slug": "daangn",
+    "name": "당근",
+    "type": "korean",
+    "ats": "greenhouse",
+    "token": "daangn",
+    "homepage": "https://www.daangn.com",
+    "careers": "https://careers.daangn.com",
+    "description": "동네 기반 중고거래·커뮤니티 서비스"
+  },
+  {
+    "slug": "databricks",
+    "name": "Databricks",
+    "type": "global",
+    "ats": "greenhouse",
+    "token": "databricks",
+    "homepage": "https://www.databricks.com",
+    "careers": "https://www.databricks.com/company/careers",
+    "description": "레이크하우스 기반 데이터·AI 플랫폼"
+  },
+  {
+    "slug": "lunit",
+    "name": "루닛",
+    "type": "korean",
+    "ats": "workable",
+    "token": "lunit",
+    "homepage": "https://www.lunit.io",
+    "careers": "https://www.lunit.io/careers",
+    "description": "암 진단과 치료를 돕는 의료 AI 기업"
+  },
+  {
+    "slug": "anthropic",
+    "name": "Anthropic",
+    "type": "global",
+    "ats": "greenhouse",
+    "token": "anthropic",
+    "homepage": "https://www.anthropic.com",
+    "careers": "https://www.anthropic.com/careers",
+    "description": "Claude를 만드는 AI 안전 연구 기업"
+  },
+  {
+    "slug": "datadog",
+    "name": "Datadog",
+    "type": "global",
+    "ats": "greenhouse",
+    "token": "datadog",
+    "homepage": "https://www.datadoghq.com",
+    "careers": "https://careers.datadoghq.com",
+    "description": "클라우드 모니터링·옵저버빌리티 플랫폼"
+  },
+  {
+    "slug": "moloco",
+    "name": "몰로코",
+    "type": "korean",
+    "ats": "greenhouse",
+    "token": "moloco",
+    "homepage": "https://www.moloco.com",
+    "careers": "https://www.moloco.com/careers",
+    "description": "머신러닝 기반 광고 플랫폼"
+  },
+  {
+    "slug": "sendbird",
+    "name": "센드버드",
+    "type": "korean",
+    "ats": "greenhouse",
+    "token": "sendbird",
+    "homepage": "https://sendbird.com",
+    "careers": "https://sendbird.com/careers",
+    "description": "인앱 채팅·커뮤니케이션 API"
+  },
+  {
+    "slug": "gitlab",
+    "name": "GitLab",
+    "type": "global",
+    "ats": "greenhouse",
+    "token": "gitlab",
+    "homepage": "https://about.gitlab.com",
+    "careers": "https://about.gitlab.com/jobs",
+    "description": "DevOps 수명주기를 다루는 오픈소스 플랫폼"
+  },
+  {
+    "slug": "airbnb",
+    "name": "Airbnb",
+    "type": "global",
+    "ats": "greenhouse",
+    "token": "airbnb",
+    "homepage": "https://www.airbnb.com",
+    "careers": "https://careers.airbnb.com",
+    "description": "전 세계 숙박·여행 플랫폼"
+  },
+  {
+    "slug": "elastic",
+    "name": "Elastic",
+    "type": "global",
+    "ats": "greenhouse",
+    "token": "elastic",
+    "homepage": "https://www.elastic.co",
+    "careers": "https://www.elastic.co/careers",
+    "description": "검색·관측·보안 플랫폼"
+  },
+  {
+    "slug": "okta",
+    "name": "Okta",
+    "type": "global",
+    "ats": "greenhouse",
+    "token": "okta",
+    "homepage": "https://www.okta.com",
+    "careers": "https://www.okta.com/company/careers",
+    "description": "아이덴티티·접근 관리 플랫폼"
+  },
+  {
+    "slug": "figma",
+    "name": "Figma",
+    "type": "global",
+    "ats": "greenhouse",
+    "token": "figma",
+    "homepage": "https://www.figma.com",
+    "careers": "https://www.figma.com/careers",
+    "description": "브라우저 기반 디자인 협업 도구"
+  },
+  {
+    "slug": "mongodb",
+    "name": "MongoDB",
+    "type": "global",
+    "ats": "greenhouse",
+    "token": "mongodb",
+    "homepage": "https://www.mongodb.com",
+    "careers": "https://www.mongodb.com/careers",
+    "description": "문서형 데이터베이스 플랫폼"
+  },
+  {
+    "slug": "channel-corp",
+    "name": "채널톡",
+    "type": "korean",
+    "ats": "lever",
+    "token": "zoyi",
+    "homepage": "https://channel.io",
+    "careers": "https://channel.io/ko/careers",
+    "description": "AI 고객 상담·CRM SaaS"
+  },
+  {
+    "slug": "xsolla",
+    "name": "Xsolla",
+    "type": "global",
+    "ats": "lever",
+    "token": "xsolla",
+    "homepage": "https://xsolla.com",
+    "careers": "https://xsolla.com/careers",
+    "description": "게임 결제·커머스 인프라"
+  },
+  {
+    "slug": "veeva",
+    "name": "Veeva",
+    "type": "global",
+    "ats": "lever",
+    "token": "veeva",
+    "homepage": "https://www.veeva.com",
+    "careers": "https://www.veeva.com/careers",
+    "description": "헬스케어·바이오 생명과학 SaaS"
+  },
+  {
+    "slug": "gauss-labs",
+    "name": "Gauss Labs",
+    "type": "korean",
+    "ats": "lever",
+    "token": "gausslabs",
+    "homepage": "https://www.gausslabs.ai",
+    "careers": "https://www.gausslabs.ai/careers",
+    "description": "제조·반도체 산업을 위한 AI 솔루션"
+  },
+  {
+    "slug": "palantir",
+    "name": "Palantir",
+    "type": "global",
+    "ats": "lever",
+    "token": "palantir",
+    "homepage": "https://www.palantir.com",
+    "careers": "https://www.palantir.com/careers",
+    "description": "데이터 통합·AI 의사결정 플랫폼"
+  },
+  {
+    "slug": "spotify",
+    "name": "Spotify",
+    "type": "global",
+    "ats": "lever",
+    "token": "spotify",
+    "homepage": "https://www.spotify.com",
+    "careers": "https://www.lifeatspotify.com",
+    "description": "음악·팟캐스트 스트리밍 플랫폼"
+  },
+  {
+    "slug": "bjak",
+    "name": "BJAK",
+    "type": "global",
+    "ats": "ashby",
+    "token": "bjakcareer",
+    "homepage": "https://bjak.com",
+    "careers": "https://bjak.com/careers",
+    "description": "동남아 보험·금융 슈퍼앱"
+  },
+  {
+    "slug": "openai",
+    "name": "OpenAI",
+    "type": "global",
+    "ats": "ashby",
+    "token": "openai",
+    "homepage": "https://openai.com",
+    "careers": "https://openai.com/careers",
+    "description": "GPT·에이전트를 만드는 AI 연구 기업"
+  },
+  {
+    "slug": "speak",
+    "name": "Speak",
+    "type": "global",
+    "ats": "ashby",
+    "token": "speak",
+    "homepage": "https://www.speak.com",
+    "careers": "https://www.speak.com/careers",
+    "description": "AI 기반 언어 학습 서비스"
+  },
+  {
+    "slug": "notion",
+    "name": "Notion",
+    "type": "global",
+    "ats": "ashby",
+    "token": "notion",
+    "homepage": "https://www.notion.so",
+    "careers": "https://www.notion.so/careers",
+    "description": "문서·위키·프로젝트를 하나로 묶은 협업 도구"
+  },
+  {
+    "slug": "snowflake",
+    "name": "Snowflake",
+    "type": "global",
+    "ats": "ashby",
+    "token": "snowflake",
+    "homepage": "https://www.snowflake.com",
+    "careers": "https://www.snowflake.com/careers",
+    "description": "클라우드 데이터 웨어하우스"
+  },
+  {
+    "slug": "cohere",
+    "name": "Cohere",
+    "type": "global",
+    "ats": "ashby",
+    "token": "cohere",
+    "homepage": "https://cohere.com",
+    "careers": "https://cohere.com/careers",
+    "description": "기업용 LLM·검색 증강 플랫폼"
+  },
+  {
+    "slug": "coderabbit",
+    "name": "CodeRabbit",
+    "type": "global",
+    "ats": "ashby",
+    "token": "coderabbit",
+    "homepage": "https://www.coderabbit.ai",
+    "careers": "https://www.coderabbit.ai/careers",
+    "description": "AI 기반 코드 리뷰 도구"
+  },
+  {
+    "slug": "monad-foundation",
+    "name": "Monad Foundation",
+    "type": "global",
+    "ats": "ashby",
+    "token": "monad.foundation",
+    "homepage": "https://monad.xyz",
+    "careers": "https://monad.xyz/careers",
+    "description": "고성능 EVM 호환 블록체인 재단"
+  },
+  {
+    "slug": "musinsa",
+    "name": "무신사",
+    "type": "korean",
+    "ats": "ashby",
+    "token": "musinsa",
+    "homepage": "https://www.musinsa.com",
+    "careers": "https://www.musinsa.com/careers",
+    "description": "국내 대표 패션·라이프스타일 플랫폼"
+  }
+]

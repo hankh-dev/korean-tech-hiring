@@ -1,0 +1,48 @@
+name: Discover new ATS boards
+
+on:
+  schedule:
+    # Quarterly: 00:00 UTC on the 1st day of Jan/Apr/Jul/Oct
+    - cron: "0 0 1 */3 *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Probe watchlist and diff against collected boards
+        run: python3 scripts/discover_boards.py
+
+      - name: Open or refresh suggestion issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          count=$(cat suggestions.count)
+          if [ "$count" -eq 0 ]; then
+            echo "No new board candidates this quarter."
+            exit 0
+          fi
+          gh label create board-suggestion --color 0E8A16 \
+            --description "New public-ATS board candidates from quarterly probe" 2>/dev/null || true
+          existing=$(gh issue list --label board-suggestion --state open \
+            --json number --jq '.[0].number // empty')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body-file suggestions.md
+            echo "Updated issue #$existing"
+          else
+            gh issue create \
+              --title "신규 ATS 채택 후보 ${count}곳 (분기 probe)" \
+              --label board-suggestion \
+              --body-file suggestions.md
+          fi

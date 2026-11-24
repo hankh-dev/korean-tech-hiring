@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "cadence",
+    "name": "Cadence",
+    "type": "global",
+    "ats": "workday",
+    "tenant": "cadence",
+    "shard": "wd1",
+    "site": "External_Careers",
+    "homepage": "https://www.cadence.com",
+    "careers": "https://www.cadence.com/en_US/home/company/careers.html",
+    "description": "EDA·반도체 설계 소프트웨어 기업"
+  },
+  {
+    "slug": "nvidia",
+    "name": "NVIDIA",
+    "type": "global",
+    "ats": "workday",
+    "tenant": "nvidia",
+    "shard": "wd5",
+    "site": "NVIDIAExternalCareerSite",
+    "homepage": "https://www.nvidia.com",
+    "careers": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+    "description": "GPU·AI 컴퓨팅 플랫폼 기업"
+  }
+]

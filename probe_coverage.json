@@ -1,0 +1,946 @@
+[
+  {
+    "name": "Cadence",
+    "segment": "global",
+    "careers": "https://www.cadence.com/en_US/home/company/careers.html",
+    "ats": "workday",
+    "koreaJobs": 30,
+    "techEst": 20,
+    "samples": [
+      "Software Engineer II - Innovus | GYEONGGI-DO (Seoul)",
+      "Sr Principal Design Engineer — Memory Modeling Portfolio | SHANGHAI 07",
+      "Sr Principal Customer Engagement Engineer - HSV | GYEONGGI-DO (Seoul)",
+      "Product Engineer II - Verification | GYEONGGI-DO (Seoul)",
+      "Product Engineer II - Verification | GYEONGGI-DO (Seoul)"
+    ],
+    "config": {
+      "tenant": "cadence",
+      "shard": "wd1",
+      "site": "External_Careers"
+    }
+  },
+  {
+    "name": "Johnson & Johnson",
+    "segment": "global",
+    "careers": "https://jobs.jnj.com",
+    "ats": "workday",
+    "koreaJobs": 26,
+    "techEst": 0,
+    "samples": [
+      "[MedTech] Sales Director, OTTAVA, Korea | Seoul, Korea, Republic of",
+      "[MedTech] Product Manager, Wound Closure - Surgery | Seoul, Korea, Republic of",
+      "Deliver Specialist | 2 Locations",
+      "Sr. Supply Chain Planner - DePuy Synthes | Seoul, Korea, Republic of",
+      "[MedTech]Collections & Dispute Management Sr Analyst (Accounts Receivable & Collections) | Seoul, Korea, Republic of"
+    ],
+    "config": {
+      "tenant": "jj",
+      "shard": "wd5",
+      "site": "JJ"
+    }
+  },
+  {
+    "name": "NVIDIA",
+    "segment": "global",
+    "careers": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+    "ats": "workday",
+    "koreaJobs": 19,
+    "techEst": 14,
+    "samples": [
+      "Senior Solutions Architect, Continuous Bring Up Networking | 2 Locations",
+      "Senior Public Relations Manager | Korea, Seoul",
+      "Senior System Software Engineer - Automotive | Korea, Seoul",
+      "Solutions Architect - AI Technology Center for Physical AI | Korea, Seoul",
+      "Senior Developer Relations Manager- GenAI | Korea, Seoul"
+    ],
+    "config": {
+      "tenant": "nvidia",
+      "shard": "wd5",
+      "site": "NVIDIAExternalCareerSite"
+    }
+  },
+  {
+    "name": "Nike",
+    "segment": "global",
+    "careers": "https://jobs.nike.com",
+    "ats": "workday",
+    "koreaJobs": 19,
+    "techEst": 0,
+    "samples": [
+      "Athlete 16PT (용인) | Gyeonggi-do, Korea",
+      "Athlete 40FT (용인) | Gyeonggi-do, Korea",
+      "Athlete 40FT (가산) | Seoul, Korea",
+      "Athlete 16PT (송도) | Incheon, Korea",
+      "Athlete 16PT (송도) | Incheon, Korea"
+    ],
+    "config": {
+      "tenant": "nike",
+      "shard": "wd1",
+      "site": "nke"
+    }
+  },
+  {
+    "name": "루닛(확인용)",
+    "segment": "korean",
+    "careers": "https://www.lunit.io/careers",
+    "ats": "workable",
+    "koreaJobs": 15,
+    "techEst": 3,
+    "samples": [
+      "(Seoul) Commercial Operations Specialist | Seoul Seoul South Korea",
+      "(Seoul) DevOps Engineer | Seoul Seoul South Korea",
+      "(Seoul) Finance Staff - 특성화고 연계 채용 | Seoul Seoul South Korea",
+      "(Seoul) IT Operations Specialist | Seoul Seoul South Korea",
+      "(Seoul) Medical Director(Product Manager) · Precision Oncology | Seoul Seoul South Korea"
+    ],
+    "config": {
+      "token": "lunit"
+    }
+  },
+  {
+    "name": "Intel",
+    "segment": "global",
+    "careers": "https://jobs.intel.com",
+    "ats": "workday",
+    "koreaJobs": 9,
+    "techEst": 5,
+    "samples": [
+      "Director, Government Affairs - Korea | South Korea, Seoul",
+      "Sales Strategy Specialist | South Korea, Seoul",
+      "Software Enabling and Optimization Engineer | South Korea, Seoul",
+      "Sr. Substrates Engineering & Operations Engineer | Virtual South Korea",
+      "Software Enabling and Optimization Engineer | South Korea, Seoul"
+    ],
+    "error": "careers fetch: HTTP Error 403: Forbidden",
+    "config": {
+      "tenant": "intel",
+      "shard": "wd1",
+      "site": null
+    }
+  },
+  {
+    "name": "Mastercard",
+    "segment": "global",
+    "careers": "https://careers.mastercard.com",
+    "ats": "workday",
+    "koreaJobs": 4,
+    "techEst": 0,
+    "samples": [
+      "Product Innovation Manager: Product Strategist / Facilitator | Tokyo, Japan",
+      "Director, Specialist Sales (MarTech) | Tokyo, Japan",
+      "Services Business Development - Manager - Acquiring & Processing | Wanchai, Hong Kong",
+      "Senior Specialist, AP Loyalty & Services, Korean Speaker | Taipei, Taiwan"
+    ],
+    "config": {
+      "tenant": "mastercard",
+      "shard": "wd1",
+      "site": "CorporateCareers"
+    }
+  },
+  {
+    "name": "Merck",
+    "segment": "global",
+    "careers": "https://jobs.merck.com",
+    "ats": "workday",
+    "koreaJobs": 2,
+    "techEst": 1,
+    "samples": [
+      "Quality Assurance Specialist | KOR - Seoul - Seoul (Seoul Square)",
+      "Market Access Senior Specialist | KOR - Seoul - Seoul (Seoul Square)"
+    ],
+    "config": {
+      "tenant": "msd",
+      "shard": "wd5",
+      "site": "SearchJobs"
+    }
+  },
+  {
+    "name": "Pfizer",
+    "segment": "global",
+    "careers": "https://www.pfizer.com/about/careers",
+    "ats": "workday",
+    "koreaJobs": 1,
+    "techEst": 0,
+    "samples": [
+      "Director, People Experience (PX) – Taiwan | Taiwan - Taipei"
+    ],
+    "config": {
+      "tenant": "pfizer",
+      "shard": "wd1",
+      "site": "PfizerCareers"
+    }
+  },
+  {
+    "name": "3M",
+    "segment": "global",
+    "careers": "https://www.3m.com/3M/en_US/careers-us/",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "AMD",
+    "segment": "global",
+    "careers": "https://www.amd.com/en/corporate/careers.html",
+    "ats": "workday",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "config": {
+      "tenant": "amd",
+      "shard": "wd1",
+      "site": null
+    }
+  },
+  {
+    "name": "ASML",
+    "segment": "global",
+    "careers": "https://www.asml.com/en/careers",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Adidas",
+    "segment": "global",
+    "careers": "https://www.adidas-group.com/en/careers/",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 404: Not Found"
+  },
+  {
+    "name": "Adobe",
+    "segment": "global",
+    "careers": "https://www.adobe.com/careers.html",
+    "ats": "workday",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 403: Forbidden",
+    "config": {
+      "tenant": "adobe",
+      "shard": "wd5",
+      "site": null
+    }
+  },
+  {
+    "name": "Amazon",
+    "segment": "global",
+    "careers": "https://www.amazon.jobs",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Analog Devices",
+    "segment": "global",
+    "careers": "https://www.analog.com/en/careers.html",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: The read operation timed out"
+  },
+  {
+    "name": "Apple",
+    "segment": "global",
+    "careers": "https://www.apple.com/careers/",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Applied Materials",
+    "segment": "global",
+    "careers": "https://www.appliedmaterials.com/us/en/careers.html",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "Arm",
+    "segment": "global",
+    "careers": "https://www.arm.com/company/careers",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "AstraZeneca",
+    "segment": "global",
+    "careers": "https://careers.astrazeneca.com",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Atlassian",
+    "segment": "global",
+    "careers": "https://www.atlassian.com/company/careers",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Bayer",
+    "segment": "global",
+    "careers": "https://career.bayer.com",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "BioNTech",
+    "segment": "global",
+    "careers": "https://www.biontech.com/int/en/home/careers.html",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Bosch",
+    "segment": "global",
+    "careers": "https://www.bosch.com/careers/",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Broadcom",
+    "segment": "global",
+    "careers": "https://www.broadcom.com/company/careers",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Cloudflare",
+    "segment": "global",
+    "careers": "https://www.cloudflare.com/careers/",
+    "ats": "greenhouse",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "config": {
+      "token": "cloudflare"
+    }
+  },
+  {
+    "name": "Coinbase",
+    "segment": "global",
+    "careers": "https://www.coinbase.com/careers",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "EA",
+    "segment": "global",
+    "careers": "https://www.ea.com/careers",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Eli Lilly",
+    "segment": "global",
+    "careers": "https://careers.lilly.com",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "Epic Games",
+    "segment": "global",
+    "careers": "https://www.epicgames.com/site/en-US/careers",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "Equinix",
+    "segment": "global",
+    "careers": "https://www.equinix.com/careers",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Ericsson",
+    "segment": "global",
+    "careers": "https://www.ericsson.com/en/careers",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "GSK",
+    "segment": "global",
+    "careers": "https://www.gsk.com/en-gb/careers/",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Google",
+    "segment": "global",
+    "careers": "https://www.google.com/about/careers/applications/",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Honeywell",
+    "segment": "global",
+    "careers": "https://careers.honeywell.com",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Infineon",
+    "segment": "global",
+    "careers": "https://www.infineon.com/cms/en/careers/",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "LG",
+    "segment": "korean",
+    "careers": "https://careers.lg.com",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Lam Research",
+    "segment": "global",
+    "careers": "https://www.lamresearch.com/careers/",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Marvell",
+    "segment": "global",
+    "careers": "https://www.marvell.com/company/careers.html",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "Micron",
+    "segment": "global",
+    "careers": "https://www.micron.com/about/careers",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Microsoft",
+    "segment": "global",
+    "careers": "https://careers.microsoft.com",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Moderna",
+    "segment": "global",
+    "careers": "https://www.modernatx.com/careers",
+    "ats": "workday",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "config": {
+      "tenant": "modernatx",
+      "shard": "wd1",
+      "site": "M_tx"
+    }
+  },
+  {
+    "name": "NXP",
+    "segment": "global",
+    "careers": "https://www.nxp.com/company/careers:Careers",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 404: Not Found"
+  },
+  {
+    "name": "Netflix",
+    "segment": "global",
+    "careers": "https://jobs.netflix.com",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Nokia",
+    "segment": "global",
+    "careers": "https://www.nokia.com/about-us/careers/",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Novartis",
+    "segment": "global",
+    "careers": "https://www.novartis.com/careers",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Qualcomm",
+    "segment": "global",
+    "careers": "https://www.qualcomm.com/company/careers",
+    "ats": "workday",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "config": {
+      "tenant": "qualcomm",
+      "shard": "wd5",
+      "site": null
+    }
+  },
+  {
+    "name": "Riot Games",
+    "segment": "global",
+    "careers": "https://www.riotgames.com/en/work-with-us",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Roblox",
+    "segment": "global",
+    "careers": "https://careers.roblox.com",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Roche",
+    "segment": "global",
+    "careers": "https://careers.roche.com",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "SK",
+    "segment": "korean",
+    "careers": "https://careers.sk.com",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "name": "Salesforce",
+    "segment": "global",
+    "careers": "https://www.salesforce.com/company/careers/",
+    "ats": "workday",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "config": {
+      "tenant": "salesforce",
+      "shard": "wd12",
+      "site": null
+    }
+  },
+  {
+    "name": "Sanofi",
+    "segment": "global",
+    "careers": "https://www.sanofi.com/en/careers",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Schneider Electric",
+    "segment": "global",
+    "careers": "https://www.se.com/ww/en/about-us/careers/",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "Shopify",
+    "segment": "global",
+    "careers": "https://www.shopify.com/careers",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Siemens",
+    "segment": "global",
+    "careers": "https://www.siemens.com/global/en/company/jobs.html",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Stripe",
+    "segment": "global",
+    "careers": "https://stripe.com/jobs",
+    "ats": "greenhouse",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "config": {
+      "token": "stripe"
+    }
+  },
+  {
+    "name": "Synopsys",
+    "segment": "global",
+    "careers": "https://www.synopsys.com/careers.html",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Tesla",
+    "segment": "global",
+    "careers": "https://www.tesla.com/careers",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "Texas Instruments",
+    "segment": "global",
+    "careers": "https://www.ti.com/careers.html",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 404: Not Found"
+  },
+  {
+    "name": "Uber",
+    "segment": "global",
+    "careers": "https://www.uber.com/us/en/careers/",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Ubisoft",
+    "segment": "global",
+    "careers": "https://www.ubisoft.com/en-us/company/careers",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Unity",
+    "segment": "global",
+    "careers": "https://careers.unity.com",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "Visa",
+    "segment": "global",
+    "careers": "https://www.visa.com/careers.html",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 404: Not Found"
+  },
+  {
+    "name": "네오위즈",
+    "segment": "korean",
+    "careers": "https://www.neowiz.com/careers",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 404: Not Found"
+  },
+  {
+    "name": "네이버",
+    "segment": "korean",
+    "careers": "https://recruit.navercorp.com",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "넥슨",
+    "segment": "korean",
+    "careers": "https://careers.nexon.com",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "넷마블",
+    "segment": "korean",
+    "careers": "https://careers.netmarble.com",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "name": "라인",
+    "segment": "korean",
+    "careers": "https://careers.linecorp.com",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "리디",
+    "segment": "korean",
+    "careers": "https://www.ridi.com/careers",
+    "ats": "greenhouse",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 404: Not Found",
+    "config": {
+      "token": "ridi"
+    }
+  },
+  {
+    "name": "매스프레소",
+    "segment": "korean",
+    "careers": "https://mathpresso.com/careers",
+    "ats": "greenhouse",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "config": {
+      "token": "mathpresso"
+    }
+  },
+  {
+    "name": "배달의민족",
+    "segment": "korean",
+    "careers": "https://career.woowahan.com",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "삼성전자",
+    "segment": "korean",
+    "careers": "https://www.samsung.com/sec/careers/",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "스마일게이트",
+    "segment": "korean",
+    "careers": "https://careers.smilegate.com",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "쏘카",
+    "segment": "korean",
+    "careers": "https://www.socar.kr/careers",
+    "ats": "greenhouse",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 404: Not Found",
+    "config": {
+      "token": "socar"
+    }
+  },
+  {
+    "name": "야놀자",
+    "segment": "korean",
+    "careers": "https://www.yanolja.com/careers",
+    "ats": "greenhouse",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 404: Not Found",
+    "config": {
+      "token": "yanolja"
+    }
+  },
+  {
+    "name": "엔씨소프트",
+    "segment": "korean",
+    "careers": "https://careers.ncsoft.com",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "오늘의집",
+    "segment": "korean",
+    "careers": "https://www.bucketplace.co.kr/careers",
+    "ats": "greenhouse",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "config": {
+      "token": "bucketplace"
+    }
+  },
+  {
+    "name": "위메이드",
+    "segment": "korean",
+    "careers": "https://www.wemade.com/careers",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 404: Not Found"
+  },
+  {
+    "name": "직방",
+    "segment": "korean",
+    "careers": "https://www.zigbang.com/careers",
+    "ats": "greenhouse",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 404: Not Found",
+    "config": {
+      "token": "zigbang"
+    }
+  },
+  {
+    "name": "카카오",
+    "segment": "korean",
+    "careers": "https://careers.kakao.com",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "컬리",
+    "segment": "korean",
+    "careers": "https://www.kurly.com/careers",
+    "ats": "greenhouse",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 404: Not Found",
+    "config": {
+      "token": "kurly"
+    }
+  },
+  {
+    "name": "컴투스",
+    "segment": "korean",
+    "careers": "https://www.com2us.com/careers",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "토스",
+    "segment": "korean",
+    "careers": "https://toss.im/careers",
+    "ats": "greenhouse",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: HTTP Error 404: Not Found",
+    "config": {
+      "token": "toss"
+    }
+  },
+  {
+    "name": "펄어비스",
+    "segment": "korean",
+    "careers": "https://www.pearlabyss.com/en-US/Careers",
+    "ats": "in-house/unknown",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": []
+  },
+  {
+    "name": "현대자동차",
+    "segment": "korean",
+    "careers": "https://careers.hyundai.com",
+    "ats": "fetch-failed",
+    "koreaJobs": 0,
+    "techEst": 0,
+    "samples": [],
+    "error": "careers fetch: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  }
+]
