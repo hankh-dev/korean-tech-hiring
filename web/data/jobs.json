@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T11:19:27+00:00",
+  "generatedAt": "2026-11-24T05:09:11+00:00",
   "allKoreaJobs": 738,
   "techJobs": 254,
   "jobs": [
@@ -1903,6 +1903,29 @@
       "isAi": false
     },
     {
+      "id": "greenhouse:coupang:8323929",
+      "company": "쿠팡",
+      "companySlug": "coupang",
+      "companyType": "korean",
+      "title": "Robotics Systems Architect (Global Operations Technology)",
+      "location": "Seoul, South Korea",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8323929",
+      "postedAt": "2026-10-26",
+      "employmentType": "",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "seniority": "unknown",
+      "remote": "onsite",
+      "stacks": [
+        "python",
+        "cpp",
+        "llm",
+        "docker",
+        "linux"
+      ],
+      "isAi": false
+    },
+    {
       "id": "greenhouse:coupang:8239014",
       "company": "쿠팡",
       "companySlug": "coupang",
@@ -2108,39 +2131,6 @@
         "mlops"
       ],
       "isAi": true
-    },
-    {
-      "id": "greenhouse:coupang:8239019",
-      "company": "쿠팡",
-      "companySlug": "coupang",
-      "companyType": "korean",
-      "title": "[Coupang Ads] Senior Back-end Engineer (Advertiser Platform)",
-      "location": "Seoul, South Korea",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8239019",
-      "postedAt": "2026-10-14",
-      "employmentType": "",
-      "role": "backend",
-      "roleName": "백엔드",
-      "seniority": "senior",
-      "remote": "onsite",
-      "stacks": [
-        "java",
-        "kotlin",
-        "graphql",
-        "grpc",
-        "nodejs",
-        "spark",
-        "hadoop",
-        "aws",
-        "gcp",
-        "azure",
-        "kubernetes",
-        "docker",
-        "elasticsearch",
-        "kafka",
-        "redis"
-      ],
-      "isAi": false
     },
     {
       "id": "ashby:cohere:031c2335-db85-4265-8a88-a54b911be36a",
@@ -3313,13 +3303,13 @@
       "isAi": false
     },
     {
-      "id": "greenhouse:coupang:8118859",
+      "id": "greenhouse:coupang:8118861",
       "company": "쿠팡",
       "companySlug": "coupang",
       "companyType": "korean",
       "title": "Sr. Director, Back-End Engineering",
       "location": "Seoul, South Korea",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8118859",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8118861",
       "postedAt": "2026-08-23",
       "employmentType": "",
       "role": "backend",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T11:19:27+00:00",
+  "generatedAt": "2026-11-24T05:09:11+00:00",
   "reports": [
     {
       "slug": "2026-w48",
@@ -425,23 +425,23 @@
       "end": "2026-11-01",
       "partial": false,
       "title": "2026년 10월 4주차 테크 채용 리포트",
-      "summary": "2026년 10월 4주차(10/26~11/1) 국내 테크 기업의 신규 개발 공고는 24건이었습니다. 가장 많이 언급된 스택은 Python(4건), 가장 많은 직군은 소프트웨어 엔지니어링(17건)입니다.",
+      "summary": "2026년 10월 4주차(10/26~11/1) 국내 테크 기업의 신규 개발 공고는 25건이었습니다. 가장 많이 언급된 스택은 Python(5건), 가장 많은 직군은 소프트웨어 엔지니어링(18건)입니다.",
       "sections": [
         {
           "heading": "이번 주 숫자",
-          "body": "신규 개발 공고 24건, AI 관련 6건(25%), 원격·하이브리드 18건(75%)입니다."
+          "body": "신규 개발 공고 25건, AI 관련 6건(24%), 원격·하이브리드 18건(72%)입니다."
         },
         {
           "heading": "스택 Top 5",
-          "body": "Python 4건, LLM 2건, Kubernetes 2건, Java 2건, Apache Spark 2건"
+          "body": "Python 5건, LLM 3건, Kubernetes 2건, Java 2건, Apache Spark 2건"
         },
         {
           "heading": "직군 분포",
-          "body": "소프트웨어 엔지니어링 17건, 보안 2건, ML / AI 2건"
+          "body": "소프트웨어 엔지니어링 18건, 보안 2건, ML / AI 2건"
         },
         {
           "heading": "기업별 신규 공고",
-          "body": "BJAK 17건, 쿠팡 4건, 루닛 1건, Databricks 1건, 몰로코 1건"
+          "body": "BJAK 17건, 쿠팡 5건, 루닛 1건, Databricks 1건, 몰로코 1건"
         },
         {
           "heading": "관찰",
@@ -449,20 +449,20 @@
         }
       ],
       "stats": {
-        "jobs": 24,
+        "jobs": 25,
         "aiJobs": 6,
-        "aiShare": 25,
-        "remoteShare": 75,
+        "aiShare": 24,
+        "remoteShare": 72,
         "topStacks": [
           {
             "slug": "python",
             "name": "Python",
-            "count": 4
+            "count": 5
           },
           {
             "slug": "llm",
             "name": "LLM",
-            "count": 2
+            "count": 3
           },
           {
             "slug": "kubernetes",
@@ -484,7 +484,7 @@
           {
             "slug": "engineering",
             "name": "소프트웨어 엔지니어링",
-            "count": 17
+            "count": 18
           },
           {
             "slug": "security",
@@ -506,7 +506,7 @@
           {
             "slug": "coupang",
             "name": "쿠팡",
-            "count": 4
+            "count": 5
           },
           {
             "slug": "lunit",
@@ -638,23 +638,23 @@
       "end": "2026-10-18",
       "partial": false,
       "title": "2026년 10월 2주차 테크 채용 리포트",
-      "summary": "2026년 10월 2주차(10/12~10/18) 국내 테크 기업의 신규 개발 공고는 4건이었습니다. 가장 많이 언급된 스택은 Python(3건), 가장 많은 직군은 ML / AI(2건)입니다.",
+      "summary": "2026년 10월 2주차(10/12~10/18) 국내 테크 기업의 신규 개발 공고는 3건이었습니다. 가장 많이 언급된 스택은 Python(3건), 가장 많은 직군은 ML / AI(2건)입니다.",
       "sections": [
         {
           "heading": "이번 주 숫자",
-          "body": "신규 개발 공고 4건, AI 관련 3건(75%), 원격·하이브리드 2건(50%)입니다."
+          "body": "신규 개발 공고 3건, AI 관련 3건(100%), 원격·하이브리드 2건(67%)입니다."
         },
         {
           "heading": "스택 Top 5",
-          "body": "Python 3건, LLM 2건, MLOps 1건, Java 1건, Kotlin 1건"
+          "body": "Python 3건, LLM 2건, MLOps 1건, TypeScript 1건, JavaScript 1건"
         },
         {
           "heading": "직군 분포",
-          "body": "ML / AI 2건, 백엔드 1건, 솔루션 엔지니어링 1건"
+          "body": "ML / AI 2건, 솔루션 엔지니어링 1건"
         },
         {
           "heading": "기업별 신규 공고",
-          "body": "쿠팡 2건, Gauss Labs 1건, Cohere 1건"
+          "body": "Gauss Labs 1건, Cohere 1건, 쿠팡 1건"
         },
         {
           "heading": "관찰",
@@ -662,10 +662,10 @@
         }
       ],
       "stats": {
-        "jobs": 4,
+        "jobs": 3,
         "aiJobs": 3,
-        "aiShare": 75,
-        "remoteShare": 50,
+        "aiShare": 100,
+        "remoteShare": 67,
         "topStacks": [
           {
             "slug": "python",
@@ -683,13 +683,13 @@
             "count": 1
           },
           {
-            "slug": "java",
-            "name": "Java",
+            "slug": "typescript",
+            "name": "TypeScript",
             "count": 1
           },
           {
-            "slug": "kotlin",
-            "name": "Kotlin",
+            "slug": "javascript",
+            "name": "JavaScript",
             "count": 1
           }
         ],
@@ -700,22 +700,12 @@
             "count": 2
           },
           {
-            "slug": "backend",
-            "name": "백엔드",
-            "count": 1
-          },
-          {
             "slug": "solutions",
             "name": "솔루션 엔지니어링",
             "count": 1
           }
         ],
         "topCompanies": [
-          {
-            "slug": "coupang",
-            "name": "쿠팡",
-            "count": 2
-          },
           {
             "slug": "gauss-labs",
             "name": "Gauss Labs",
@@ -724,6 +714,11 @@
           {
             "slug": "cohere",
             "name": "Cohere",
+            "count": 1
+          },
+          {
+            "slug": "coupang",
+            "name": "쿠팡",
             "count": 1
           }
         ]
