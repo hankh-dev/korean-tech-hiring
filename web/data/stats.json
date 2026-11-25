@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-24T05:09:11+00:00",
+  "generatedAt": "2026-11-25T03:57:30+00:00",
   "totals": {
-    "allKoreaJobs": 738,
-    "techJobs": 254,
+    "allKoreaJobs": 743,
+    "techJobs": 257,
     "companies": 23,
     "aiJobs": 66,
     "remoteJobs": 53,
-    "hybridJobs": 43,
-    "new7d": 29,
-    "new30d": 96,
-    "stacks": 74
+    "hybridJobs": 44,
+    "new7d": 44,
+    "new30d": 95,
+    "stacks": 75
   },
   "stacks": [
     {
@@ -17,15 +17,15 @@
       "name": "Python",
       "category": "언어",
       "blurb": "데이터·백엔드·AI 전반에서 가장 폭넓게 쓰이는 언어입니다.",
-      "count": 93,
+      "count": 95,
       "share": 37,
-      "new7d": 2,
-      "delta7d": -2,
-      "deltaPct": -50,
+      "new7d": 4,
+      "delta7d": 1,
+      "deltaPct": 33,
       "companies": [
         {
           "name": "쿠팡",
-          "count": 36
+          "count": 38
         },
         {
           "name": "당근",
@@ -50,11 +50,11 @@
       "name": "LLM",
       "category": "데이터/AI",
       "blurb": "생성형 AI 제품 개발 수요와 함께 언급이 빠르게 늘고 있습니다.",
-      "count": 72,
+      "count": 71,
       "share": 28,
-      "new7d": 5,
-      "delta7d": 0,
-      "deltaPct": 0,
+      "new7d": 6,
+      "delta7d": 1,
+      "deltaPct": 20,
       "companies": [
         {
           "name": "크래프톤",
@@ -62,7 +62,7 @@
         },
         {
           "name": "쿠팡",
-          "count": 16
+          "count": 15
         },
         {
           "name": "당근",
@@ -85,9 +85,9 @@
       "blurb": "국내 채용 공고에서 가장 많이 언급되는 클라우드 플랫폼입니다.",
       "count": 66,
       "share": 26,
-      "new7d": 4,
-      "delta7d": 0,
-      "deltaPct": 0,
+      "new7d": 3,
+      "delta7d": -2,
+      "deltaPct": -40,
       "companies": [
         {
           "name": "쿠팡",
@@ -151,9 +151,9 @@
       "blurb": "대규모 백엔드와 금융·커머스 시스템에서 꾸준히 수요가 큰 언어입니다.",
       "count": 49,
       "share": 19,
-      "new7d": 2,
-      "delta7d": -2,
-      "deltaPct": -50,
+      "new7d": 1,
+      "delta7d": -3,
+      "deltaPct": -75,
       "companies": [
         {
           "name": "쿠팡",
@@ -184,9 +184,9 @@
       "blurb": "데이터·ML 워크로드에서 자주 선택되는 클라우드입니다.",
       "count": 44,
       "share": 17,
-      "new7d": 2,
-      "delta7d": 1,
-      "deltaPct": 100,
+      "new7d": 1,
+      "delta7d": -1,
+      "deltaPct": -50,
       "companies": [
         {
           "name": "쿠팡",
@@ -216,7 +216,7 @@
       "category": "언어",
       "blurb": "안드로이드 네이티브와 서버 개발에서 함께 쓰입니다.",
       "count": 42,
-      "share": 17,
+      "share": 16,
       "new7d": 9,
       "delta7d": 1,
       "deltaPct": 12,
@@ -248,7 +248,7 @@
       "name": "AI 에이전트",
       "category": "데이터/AI",
       "blurb": "AI 에이전트 구축 경험이 채용 요건으로 등장하고 있습니다.",
-      "count": 36,
+      "count": 35,
       "share": 14,
       "new7d": 1,
       "delta7d": -5,
@@ -256,7 +256,7 @@
       "companies": [
         {
           "name": "크래프톤",
-          "count": 11
+          "count": 10
         },
         {
           "name": "당근",
@@ -283,9 +283,9 @@
       "blurb": "대용량 이벤트 스트리밍과 데이터 파이프라인의 핵심입니다.",
       "count": 28,
       "share": 11,
-      "new7d": 3,
-      "delta7d": -2,
-      "deltaPct": -40,
+      "new7d": 2,
+      "delta7d": -4,
+      "deltaPct": -67,
       "companies": [
         {
           "name": "쿠팡",
@@ -415,9 +415,9 @@
       "blurb": "웹 프론트엔드의 기본 언어로, React·Vue 생태계의 기반입니다.",
       "count": 20,
       "share": 8,
-      "new7d": 2,
-      "delta7d": 1,
-      "deltaPct": 100,
+      "new7d": 1,
+      "delta7d": -1,
+      "deltaPct": -50,
       "companies": [
         {
           "name": "쿠팡",
@@ -448,9 +448,9 @@
       "blurb": "캐시·세션·큐 용도로 폭넓게 사용됩니다.",
       "count": 17,
       "share": 7,
-      "new7d": 2,
-      "delta7d": -3,
-      "deltaPct": -60,
+      "new7d": 1,
+      "delta7d": -5,
+      "deltaPct": -83,
       "companies": [
         {
           "name": "당근",
@@ -508,6 +508,39 @@
       ]
     },
     {
+      "slug": "terraform",
+      "name": "Terraform",
+      "category": "인프라",
+      "blurb": "클라우드 인프라를 코드로 관리하는 IaC 표준입니다.",
+      "count": 16,
+      "share": 6,
+      "new7d": 2,
+      "delta7d": 0,
+      "deltaPct": 0,
+      "companies": [
+        {
+          "name": "쿠팡",
+          "count": 4
+        },
+        {
+          "name": "채널톡",
+          "count": 4
+        },
+        {
+          "name": "크래프톤",
+          "count": 3
+        },
+        {
+          "name": "루닛",
+          "count": 2
+        },
+        {
+          "name": "Databricks",
+          "count": 1
+        }
+      ]
+    },
+    {
       "slug": "bigquery",
       "name": "BigQuery",
       "category": "데이터베이스",
@@ -533,34 +566,34 @@
       ]
     },
     {
-      "slug": "terraform",
-      "name": "Terraform",
-      "category": "인프라",
-      "blurb": "클라우드 인프라를 코드로 관리하는 IaC 표준입니다.",
+      "slug": "anthropic",
+      "name": "Anthropic / Claude",
+      "category": "데이터/AI",
+      "blurb": "Claude API 기반 서비스와 AI 에이전트 개발에서 언급됩니다.",
       "count": 15,
       "share": 6,
-      "new7d": 1,
-      "delta7d": -1,
-      "deltaPct": -50,
+      "new7d": 0,
+      "delta7d": -2,
+      "deltaPct": -100,
       "companies": [
         {
-          "name": "채널톡",
+          "name": "쿠팡",
           "count": 4
+        },
+        {
+          "name": "당근",
+          "count": 3
         },
         {
           "name": "크래프톤",
           "count": 3
         },
         {
-          "name": "쿠팡",
+          "name": "채널톡",
           "count": 3
         },
         {
-          "name": "루닛",
-          "count": 2
-        },
-        {
-          "name": "Databricks",
+          "name": "Cohere",
           "count": 1
         }
       ]
@@ -571,7 +604,7 @@
       "category": "데이터/AI",
       "blurb": "검색과 생성형 AI를 결합한 사내 지식 서비스에서 주목받습니다.",
       "count": 14,
-      "share": 6,
+      "share": 5,
       "new7d": 3,
       "delta7d": 2,
       "deltaPct": 200,
@@ -594,39 +627,6 @@
         },
         {
           "name": "Elastic",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "slug": "anthropic",
-      "name": "Anthropic / Claude",
-      "category": "데이터/AI",
-      "blurb": "Claude API 기반 서비스와 AI 에이전트 개발에서 언급됩니다.",
-      "count": 14,
-      "share": 6,
-      "new7d": 0,
-      "delta7d": -2,
-      "deltaPct": -100,
-      "companies": [
-        {
-          "name": "쿠팡",
-          "count": 4
-        },
-        {
-          "name": "당근",
-          "count": 3
-        },
-        {
-          "name": "크래프톤",
-          "count": 3
-        },
-        {
-          "name": "채널톡",
-          "count": 2
-        },
-        {
-          "name": "Cohere",
           "count": 1
         }
       ]
@@ -667,9 +667,9 @@
       "blurb": "API 서버와 풀스택 개발에서 빠르게 도입되는 런타임입니다.",
       "count": 12,
       "share": 5,
-      "new7d": 1,
-      "delta7d": -1,
-      "deltaPct": -50,
+      "new7d": 0,
+      "delta7d": -3,
+      "deltaPct": -100,
       "companies": [
         {
           "name": "쿠팡",
@@ -685,6 +685,39 @@
         },
         {
           "name": "Datadog",
+          "count": 1
+        },
+        {
+          "name": "채널톡",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "mlops",
+      "name": "MLOps",
+      "category": "데이터/AI",
+      "blurb": "모델 배포·모니터링·재학습을 운영하는 역량입니다.",
+      "count": 11,
+      "share": 4,
+      "new7d": 1,
+      "delta7d": 1,
+      "deltaPct": null,
+      "companies": [
+        {
+          "name": "Gauss Labs",
+          "count": 4
+        },
+        {
+          "name": "Databricks",
+          "count": 3
+        },
+        {
+          "name": "크래프톤",
+          "count": 1
+        },
+        {
+          "name": "루닛",
           "count": 1
         },
         {
@@ -930,30 +963,59 @@
       ]
     },
     {
-      "slug": "mlops",
-      "name": "MLOps",
+      "slug": "pytorch",
+      "name": "PyTorch",
       "category": "데이터/AI",
-      "blurb": "모델 배포·모니터링·재학습을 운영하는 역량입니다.",
-      "count": 10,
-      "share": 4,
-      "new7d": 0,
-      "delta7d": 0,
+      "blurb": "AI 연구·프로덕션에서 가장 많이 쓰이는 딥러닝 프레임워크입니다.",
+      "count": 8,
+      "share": 3,
+      "new7d": 1,
+      "delta7d": 1,
       "deltaPct": null,
       "companies": [
         {
-          "name": "Gauss Labs",
-          "count": 4
-        },
-        {
-          "name": "Databricks",
+          "name": "크래프톤",
           "count": 3
         },
         {
-          "name": "루닛",
+          "name": "채널톡",
+          "count": 2
+        },
+        {
+          "name": "Databricks",
           "count": 1
         },
         {
+          "name": "몰로코",
+          "count": 1
+        },
+        {
+          "name": "Gauss Labs",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "ansible",
+      "name": "Ansible",
+      "category": "인프라",
+      "blurb": "서버 구성과 배포 자동화에 사용됩니다.",
+      "count": 7,
+      "share": 3,
+      "new7d": 2,
+      "delta7d": 2,
+      "deltaPct": null,
+      "companies": [
+        {
+          "name": "쿠팡",
+          "count": 4
+        },
+        {
           "name": "채널톡",
+          "count": 1
+        },
+        {
+          "name": "크래프톤",
           "count": 1
         },
         {
@@ -980,34 +1042,34 @@
       ]
     },
     {
-      "slug": "pytorch",
-      "name": "PyTorch",
+      "slug": "openai",
+      "name": "OpenAI API",
       "category": "데이터/AI",
-      "blurb": "AI 연구·프로덕션에서 가장 많이 쓰이는 딥러닝 프레임워크입니다.",
+      "blurb": "GPT API를 활용한 제품 개발 공고에서 자주 등장합니다.",
       "count": 7,
       "share": 3,
       "new7d": 0,
-      "delta7d": 0,
-      "deltaPct": null,
+      "delta7d": -2,
+      "deltaPct": -100,
       "companies": [
+        {
+          "name": "당근",
+          "count": 2
+        },
         {
           "name": "크래프톤",
           "count": 2
         },
         {
-          "name": "채널톡",
-          "count": 2
+          "name": "쿠팡",
+          "count": 1
         },
         {
           "name": "Databricks",
           "count": 1
         },
         {
-          "name": "몰로코",
-          "count": 1
-        },
-        {
-          "name": "Gauss Labs",
+          "name": "채널톡",
           "count": 1
         }
       ]
@@ -1088,35 +1150,6 @@
         {
           "name": "Gauss Labs",
           "count": 3
-        }
-      ]
-    },
-    {
-      "slug": "openai",
-      "name": "OpenAI API",
-      "category": "데이터/AI",
-      "blurb": "GPT API를 활용한 제품 개발 공고에서 자주 등장합니다.",
-      "count": 6,
-      "share": 2,
-      "new7d": 0,
-      "delta7d": -2,
-      "deltaPct": -100,
-      "companies": [
-        {
-          "name": "당근",
-          "count": 2
-        },
-        {
-          "name": "크래프톤",
-          "count": 2
-        },
-        {
-          "name": "쿠팡",
-          "count": 1
-        },
-        {
-          "name": "Databricks",
-          "count": 1
         }
       ]
     },
@@ -1287,35 +1320,6 @@
         },
         {
           "name": "쿠팡",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "slug": "ansible",
-      "name": "Ansible",
-      "category": "인프라",
-      "blurb": "서버 구성과 배포 자동화에 사용됩니다.",
-      "count": 5,
-      "share": 2,
-      "new7d": 0,
-      "delta7d": 0,
-      "deltaPct": null,
-      "companies": [
-        {
-          "name": "쿠팡",
-          "count": 2
-        },
-        {
-          "name": "채널톡",
-          "count": 1
-        },
-        {
-          "name": "크래프톤",
-          "count": 1
-        },
-        {
-          "name": "당근",
           "count": 1
         }
       ]
@@ -1922,6 +1926,23 @@
       ]
     },
     {
+      "slug": "computer-vision",
+      "name": "컴퓨터 비전",
+      "category": "데이터/AI",
+      "blurb": "이미지·영상 인식 기반 제품에서 요구되는 역량입니다.",
+      "count": 1,
+      "share": 0,
+      "new7d": 0,
+      "delta7d": 0,
+      "deltaPct": null,
+      "companies": [
+        {
+          "name": "쿠팡",
+          "count": 1
+        }
+      ]
+    },
+    {
       "slug": "django",
       "name": "Django",
       "category": "백엔드",
@@ -1944,7 +1965,7 @@
       "slug": "engineering",
       "name": "소프트웨어 엔지니어링",
       "blurb": "직무가 세분화되지 않은 소프트웨어 개발 직군입니다.",
-      "count": 48,
+      "count": 50,
       "share": 19
     },
     {
@@ -2021,22 +2042,22 @@
       "slug": "devrel",
       "name": "개발자 관계",
       "blurb": "개발자 커뮤니티와 기술 콘텐츠를 담당합니다.",
-      "count": 3,
-      "share": 1
+      "count": 4,
+      "share": 2
     }
   ],
   "seniority": [
     {
       "key": "unknown",
       "name": "직함 미표기",
-      "count": 113,
+      "count": 112,
       "share": 44
     },
     {
       "key": "senior",
       "name": "시니어",
-      "count": 95,
-      "share": 37
+      "count": 97,
+      "share": 38
     },
     {
       "key": "lead",
@@ -2047,8 +2068,8 @@
     {
       "key": "intern",
       "name": "인턴",
-      "count": 11,
-      "share": 4
+      "count": 13,
+      "share": 5
     },
     {
       "key": "mid",
@@ -2067,7 +2088,7 @@
     {
       "key": "onsite",
       "name": "현장",
-      "count": 158,
+      "count": 160,
       "share": 62
     },
     {
@@ -2079,7 +2100,7 @@
     {
       "key": "hybrid",
       "name": "하이브리드",
-      "count": 43,
+      "count": 44,
       "share": 17
     }
   ],
@@ -2091,16 +2112,16 @@
       "homepage": "https://www.coupang.com",
       "careers": "https://www.coupang.jobs",
       "description": "이커머스와 물류를 아우르는 국내 대표 플랫폼",
-      "jobCount": 79,
+      "jobCount": 81,
       "aiCount": 10,
       "remoteCount": 5,
-      "posted7d": 3,
-      "latestPostedAt": "2026-11-19",
+      "posted7d": 4,
+      "latestPostedAt": "2026-11-24",
       "topStacks": [
         {
           "slug": "python",
           "name": "Python",
-          "count": 36
+          "count": 38
         },
         {
           "slug": "aws",
@@ -2151,8 +2172,8 @@
       "jobCount": 38,
       "aiCount": 18,
       "remoteCount": 38,
-      "posted7d": 21,
-      "latestPostedAt": "2026-11-23",
+      "posted7d": 34,
+      "latestPostedAt": "2026-11-24",
       "topStacks": [
         {
           "slug": "kotlin",
@@ -2265,8 +2286,8 @@
       "jobCount": 24,
       "aiCount": 15,
       "remoteCount": 1,
-      "posted7d": 0,
-      "latestPostedAt": "2026-11-13",
+      "posted7d": 1,
+      "latestPostedAt": "2026-11-24",
       "topStacks": [
         {
           "slug": "llm",
@@ -2276,7 +2297,7 @@
         {
           "slug": "agent",
           "name": "AI 에이전트",
-          "count": 11
+          "count": 10
         },
         {
           "slug": "python",
@@ -2319,9 +2340,9 @@
       "homepage": "https://channel.io",
       "careers": "https://channel.io/ko/careers",
       "description": "AI 고객 상담·CRM SaaS",
-      "jobCount": 15,
+      "jobCount": 16,
       "aiCount": 2,
-      "remoteCount": 15,
+      "remoteCount": 16,
       "posted7d": 1,
       "latestPostedAt": "2026-11-23",
       "topStacks": [
@@ -3169,11 +3190,6 @@
   ],
   "dailyNew": [
     {
-      "date": "2026-10-26",
-      "jobs": 3,
-      "ai": 1
-    },
-    {
       "date": "2026-10-27",
       "jobs": 3,
       "ai": 1
@@ -3185,8 +3201,8 @@
     },
     {
       "date": "2026-10-29",
-      "jobs": 19,
-      "ai": 4
+      "jobs": 2,
+      "ai": 0
     },
     {
       "date": "2026-10-30",
@@ -3240,7 +3256,7 @@
     },
     {
       "date": "2026-11-09",
-      "jobs": 3,
+      "jobs": 2,
       "ai": 1
     },
     {
@@ -3315,6 +3331,11 @@
     },
     {
       "date": "2026-11-24",
+      "jobs": 20,
+      "ai": 5
+    },
+    {
+      "date": "2026-11-25",
       "jobs": 0,
       "ai": 0
     }
@@ -3365,23 +3386,23 @@
       "start": "2026-10-12",
       "end": "2026-10-18",
       "partial": false,
-      "jobs": 3,
+      "jobs": 2,
       "aiShare": 100,
-      "remoteShare": 67,
+      "remoteShare": 100,
       "topStacks": [
         {
           "slug": "python",
           "name": "Python",
-          "count": 3
-        },
-        {
-          "slug": "llm",
-          "name": "LLM",
           "count": 2
         },
         {
           "slug": "mlops",
           "name": "MLOps",
+          "count": 1
+        },
+        {
+          "slug": "typescript",
+          "name": "TypeScript",
           "count": 1
         }
       ],
@@ -3389,7 +3410,7 @@
         {
           "slug": "ml",
           "name": "ML / AI",
-          "count": 2
+          "count": 1
         },
         {
           "slug": "solutions",
@@ -3443,9 +3464,9 @@
       "start": "2026-10-26",
       "end": "2026-11-01",
       "partial": false,
-      "jobs": 25,
-      "aiShare": 24,
-      "remoteShare": 72,
+      "jobs": 8,
+      "aiShare": 25,
+      "remoteShare": 12,
       "topStacks": [
         {
           "slug": "python",
@@ -3465,13 +3486,13 @@
       ],
       "topRoles": [
         {
-          "slug": "engineering",
-          "name": "소프트웨어 엔지니어링",
-          "count": 18
-        },
-        {
           "slug": "security",
           "name": "보안",
+          "count": 2
+        },
+        {
+          "slug": "ml",
+          "name": "ML / AI",
           "count": 2
         }
       ]
@@ -3521,9 +3542,9 @@
       "start": "2026-11-09",
       "end": "2026-11-15",
       "partial": false,
-      "jobs": 16,
-      "aiShare": 19,
-      "remoteShare": 19,
+      "jobs": 15,
+      "aiShare": 20,
+      "remoteShare": 20,
       "topStacks": [
         {
           "slug": "python",
@@ -3531,13 +3552,13 @@
           "count": 7
         },
         {
-          "slug": "java",
-          "name": "Java",
-          "count": 6
-        },
-        {
           "slug": "agent",
           "name": "AI 에이전트",
+          "count": 5
+        },
+        {
+          "slug": "kubernetes",
+          "name": "Kubernetes",
           "count": 5
         }
       ],
@@ -3545,7 +3566,7 @@
         {
           "slug": "backend",
           "name": "백엔드",
-          "count": 4
+          "count": 3
         },
         {
           "slug": "ml",
@@ -3599,9 +3620,9 @@
       "start": "2026-11-23",
       "end": "2026-11-29",
       "partial": true,
-      "jobs": 18,
-      "aiShare": 56,
-      "remoteShare": 100,
+      "jobs": 38,
+      "aiShare": 39,
+      "remoteShare": 92,
       "topStacks": [
         {
           "slug": "kotlin",
@@ -3609,287 +3630,268 @@
           "count": 8
         },
         {
-          "slug": "tensorflow",
-          "name": "TensorFlow",
+          "slug": "llm",
+          "name": "LLM",
           "count": 4
         },
         {
-          "slug": "swift",
-          "name": "Swift",
+          "slug": "python",
+          "name": "Python",
           "count": 4
         }
       ],
       "topRoles": [
         {
+          "slug": "engineering",
+          "name": "소프트웨어 엔지니어링",
+          "count": 19
+        },
+        {
           "slug": "mobile",
           "name": "모바일",
           "count": 11
-        },
-        {
-          "slug": "ml",
-          "name": "ML / AI",
-          "count": 2
         }
       ]
     }
   ],
   "recentJobs": [
     {
-      "id": "lever:channel-corp:3d2ea22d-be02-4c26-a491-2d4c9db531d1",
-      "source": "lever",
-      "company": "채널톡",
-      "companySlug": "channel-corp",
+      "id": "greenhouse:krafton:8950930002",
+      "source": "greenhouse",
+      "company": "크래프톤",
+      "companySlug": "krafton",
       "companyType": "korean",
-      "title": "Security Engineer Intern",
-      "location": "Gangnam District, Seoul, KR",
-      "url": "https://jobs.lever.co/zoyi/3d2ea22d-be02-4c26-a491-2d4c9db531d1",
-      "postedAt": "2026-11-23",
-      "employmentType": "신입/인턴",
-      "role": "security",
-      "roleName": "보안",
-      "isTech": true,
-      "seniority": "intern",
-      "remote": "hybrid",
-      "stacks": [
-        "llm",
-        "aws",
-        "kubernetes",
-        "terraform"
-      ],
-      "isAi": false
-    },
-    {
-      "id": "ashby:bjak:1ac3b80d-893c-402a-8fc9-5d8660602d5b",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Applied AI Engineer - AI Finance Agent",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/1ac3b80d-893c-402a-8fc9-5d8660602d5b",
-      "postedAt": "2026-11-23",
-      "employmentType": "FullTime",
+      "title": "[AI Frontier Div.] ML Engineer - Vertical Model (2년 이상)",
+      "location": "Seoul; Seoul, South Korea",
+      "url": "https://job-boards.greenhouse.io/krafton/jobs/8950930002",
+      "postedAt": "2026-11-24",
+      "employmentType": "Regular",
       "role": "ml",
       "roleName": "ML / AI",
       "isTech": true,
       "seniority": "unknown",
-      "remote": "remote",
+      "remote": "onsite",
       "stacks": [
-        "python",
+        "pytorch",
         "llm",
-        "rag"
+        "mlops"
       ],
       "isAi": true
     },
     {
-      "id": "ashby:bjak:b09bcff8-83aa-431f-b432-1ac9b0459ff5",
+      "id": "greenhouse:coupang:8413572",
+      "source": "greenhouse",
+      "company": "쿠팡",
+      "companySlug": "coupang",
+      "companyType": "korean",
+      "title": "Senior, Network Engineer (Fulfillment and Logistics Network Engineering)",
+      "location": "Seoul, South Korea",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8413572",
+      "postedAt": "2026-11-24",
+      "employmentType": "",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "isTech": true,
+      "seniority": "senior",
+      "remote": "onsite",
+      "stacks": [
+        "python",
+        "ansible"
+      ],
+      "isAi": false
+    },
+    {
+      "id": "greenhouse:coupang:8413602",
+      "source": "greenhouse",
+      "company": "쿠팡",
+      "companySlug": "coupang",
+      "companyType": "korean",
+      "title": "Staff Network Engineer (Fulfillment and Logistics Network Engineering)",
+      "location": "Seoul, South Korea",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8413602",
+      "postedAt": "2026-11-24",
+      "employmentType": "",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "isTech": true,
+      "seniority": "senior",
+      "remote": "onsite",
+      "stacks": [
+        "python",
+        "terraform",
+        "ansible"
+      ],
+      "isAi": false
+    },
+    {
+      "id": "ashby:bjak:fc5e4b22-b2ff-4a2f-8926-2bac5326ed58",
       "source": "ashby",
       "company": "BJAK",
       "companySlug": "bjak",
       "companyType": "global",
-      "title": "Backend Developer",
+      "title": "Staff Software Engineer",
       "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/b09bcff8-83aa-431f-b432-1ac9b0459ff5",
-      "postedAt": "2026-11-23",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/fc5e4b22-b2ff-4a2f-8926-2bac5326ed58",
+      "postedAt": "2026-11-24",
       "employmentType": "FullTime",
-      "role": "backend",
-      "roleName": "백엔드",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
       "isTech": true,
-      "seniority": "unknown",
+      "seniority": "senior",
       "remote": "remote",
       "stacks": [],
       "isAi": false
     },
     {
-      "id": "ashby:bjak:1ea2287b-da2f-43d4-a77a-57a06b80f04e",
+      "id": "ashby:bjak:75295b20-9901-473e-aefb-15a7c1afde98",
       "source": "ashby",
       "company": "BJAK",
       "companySlug": "bjak",
       "companyType": "global",
-      "title": "Full Stack Software Engineer - AI Finance Agent",
+      "title": "Lead Software Engineer",
       "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/1ea2287b-da2f-43d4-a77a-57a06b80f04e",
-      "postedAt": "2026-11-23",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/75295b20-9901-473e-aefb-15a7c1afde98",
+      "postedAt": "2026-11-24",
       "employmentType": "FullTime",
-      "role": "fullstack",
-      "roleName": "풀스택",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
       "isTech": true,
-      "seniority": "unknown",
+      "seniority": "lead",
       "remote": "remote",
       "stacks": [],
-      "isAi": true
-    },
-    {
-      "id": "ashby:bjak:3b529240-2452-4d59-acb9-2c8579e3a2e6",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Android Software Engineer - AI Finance Agent",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/3b529240-2452-4d59-acb9-2c8579e3a2e6",
-      "postedAt": "2026-11-23",
-      "employmentType": "FullTime",
-      "role": "mobile",
-      "roleName": "모바일",
-      "isTech": true,
-      "seniority": "unknown",
-      "remote": "remote",
-      "stacks": [
-        "kotlin",
-        "tensorflow"
-      ],
-      "isAi": true
-    },
-    {
-      "id": "ashby:bjak:8bfad67c-936b-453c-a0f8-db03234595a9",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Android Developer - AI Finance Agent",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/8bfad67c-936b-453c-a0f8-db03234595a9",
-      "postedAt": "2026-11-23",
-      "employmentType": "FullTime",
-      "role": "mobile",
-      "roleName": "모바일",
-      "isTech": true,
-      "seniority": "unknown",
-      "remote": "remote",
-      "stacks": [
-        "kotlin"
-      ],
-      "isAi": true
-    },
-    {
-      "id": "ashby:bjak:0870af41-60eb-45b0-a0f6-a994c72583a8",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Mobile Application Developer - AI Finance Agent",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/0870af41-60eb-45b0-a0f6-a994c72583a8",
-      "postedAt": "2026-11-23",
-      "employmentType": "FullTime",
-      "role": "mobile",
-      "roleName": "모바일",
-      "isTech": true,
-      "seniority": "unknown",
-      "remote": "remote",
-      "stacks": [
-        "kotlin",
-        "tensorflow"
-      ],
-      "isAi": true
-    },
-    {
-      "id": "ashby:bjak:714f7499-fece-423c-b513-21029f3b9a59",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Backend Software Engineer - AI Finance Agent",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/714f7499-fece-423c-b513-21029f3b9a59",
-      "postedAt": "2026-11-23",
-      "employmentType": "FullTime",
-      "role": "backend",
-      "roleName": "백엔드",
-      "isTech": true,
-      "seniority": "unknown",
-      "remote": "remote",
-      "stacks": [],
-      "isAi": true
-    },
-    {
-      "id": "ashby:bjak:117be488-47c2-4899-9186-6866d3a81dba",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "iOS Developer - AI Finance Agent",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/117be488-47c2-4899-9186-6866d3a81dba",
-      "postedAt": "2026-11-23",
-      "employmentType": "FullTime",
-      "role": "mobile",
-      "roleName": "모바일",
-      "isTech": true,
-      "seniority": "unknown",
-      "remote": "remote",
-      "stacks": [
-        "swift"
-      ],
-      "isAi": true
-    },
-    {
-      "id": "ashby:bjak:d3f3a6b6-8ffc-4d5c-a4e2-a80d785931de",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Applied AI Engineer",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/d3f3a6b6-8ffc-4d5c-a4e2-a80d785931de",
-      "postedAt": "2026-11-23",
-      "employmentType": "FullTime",
-      "role": "ml",
-      "roleName": "ML / AI",
-      "isTech": true,
-      "seniority": "unknown",
-      "remote": "remote",
-      "stacks": [
-        "python",
-        "typescript",
-        "javascript",
-        "llm",
-        "rag"
-      ],
-      "isAi": true
-    },
-    {
-      "id": "ashby:bjak:807840da-b33b-4560-98b8-0c5c5fab70a0",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Android Software Engineer",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/807840da-b33b-4560-98b8-0c5c5fab70a0",
-      "postedAt": "2026-11-23",
-      "employmentType": "FullTime",
-      "role": "mobile",
-      "roleName": "모바일",
-      "isTech": true,
-      "seniority": "unknown",
-      "remote": "remote",
-      "stacks": [
-        "kotlin",
-        "tensorflow"
-      ],
       "isAi": false
     },
     {
-      "id": "ashby:bjak:507ba6bd-6400-4ada-a3df-a616413b2fa1",
+      "id": "ashby:bjak:90191e0c-47ea-42ab-9817-e03b6057599f",
       "source": "ashby",
       "company": "BJAK",
       "companySlug": "bjak",
       "companyType": "global",
-      "title": "iOS Developer",
+      "title": "Principal Software Engineer",
       "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/507ba6bd-6400-4ada-a3df-a616413b2fa1",
-      "postedAt": "2026-11-23",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/90191e0c-47ea-42ab-9817-e03b6057599f",
+      "postedAt": "2026-11-24",
       "employmentType": "FullTime",
-      "role": "mobile",
-      "roleName": "모바일",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
       "isTech": true,
-      "seniority": "unknown",
+      "seniority": "senior",
       "remote": "remote",
-      "stacks": [
-        "swift"
-      ],
+      "stacks": [],
+      "isAi": false
+    },
+    {
+      "id": "ashby:bjak:2fa8d960-b181-4cb5-99fb-57571f7f6ab8",
+      "source": "ashby",
+      "company": "BJAK",
+      "companySlug": "bjak",
+      "companyType": "global",
+      "title": "Engineering Manager - Stock Trading App",
+      "location": "Seoul, Korea, Seoul South Korea Seoul",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/2fa8d960-b181-4cb5-99fb-57571f7f6ab8",
+      "postedAt": "2026-11-24",
+      "employmentType": "FullTime",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "isTech": true,
+      "seniority": "lead",
+      "remote": "remote",
+      "stacks": [],
+      "isAi": false
+    },
+    {
+      "id": "ashby:bjak:b462ae77-3d51-42b9-adc7-6e13a4d664fc",
+      "source": "ashby",
+      "company": "BJAK",
+      "companySlug": "bjak",
+      "companyType": "global",
+      "title": "Engineering Manager - Wealth Management App",
+      "location": "Seoul, Korea, Seoul South Korea Seoul",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/b462ae77-3d51-42b9-adc7-6e13a4d664fc",
+      "postedAt": "2026-11-24",
+      "employmentType": "FullTime",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "isTech": true,
+      "seniority": "lead",
+      "remote": "remote",
+      "stacks": [],
+      "isAi": false
+    },
+    {
+      "id": "ashby:bjak:b641791a-67fa-44a2-8b0b-eb2451bdb144",
+      "source": "ashby",
+      "company": "BJAK",
+      "companySlug": "bjak",
+      "companyType": "global",
+      "title": "Lead Engineer - AI-Native Email App",
+      "location": "Seoul, Korea, Seoul South Korea Seoul",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/b641791a-67fa-44a2-8b0b-eb2451bdb144",
+      "postedAt": "2026-11-24",
+      "employmentType": "FullTime",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "isTech": true,
+      "seniority": "lead",
+      "remote": "remote",
+      "stacks": [],
+      "isAi": true
+    },
+    {
+      "id": "ashby:bjak:14718737-f61a-4766-9b6a-60a8a34a9891",
+      "source": "ashby",
+      "company": "BJAK",
+      "companySlug": "bjak",
+      "companyType": "global",
+      "title": "Engineering Manager - Travel FX App",
+      "location": "Seoul, Korea, Seoul South Korea Seoul",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/14718737-f61a-4766-9b6a-60a8a34a9891",
+      "postedAt": "2026-11-24",
+      "employmentType": "FullTime",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "isTech": true,
+      "seniority": "lead",
+      "remote": "remote",
+      "stacks": [],
+      "isAi": false
+    },
+    {
+      "id": "ashby:bjak:d3c96ab4-2f95-4645-a9b2-fa5924133ce6",
+      "source": "ashby",
+      "company": "BJAK",
+      "companySlug": "bjak",
+      "companyType": "global",
+      "title": "Lead Engineer - Stock Trading App",
+      "location": "Seoul, Korea, Seoul South Korea Seoul",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/d3c96ab4-2f95-4645-a9b2-fa5924133ce6",
+      "postedAt": "2026-11-24",
+      "employmentType": "FullTime",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "isTech": true,
+      "seniority": "lead",
+      "remote": "remote",
+      "stacks": [],
+      "isAi": false
+    },
+    {
+      "id": "ashby:bjak:28de3bff-1fa5-4525-99eb-cf288be6f98c",
+      "source": "ashby",
+      "company": "BJAK",
+      "companySlug": "bjak",
+      "companyType": "global",
+      "title": "Lead Engineer - Wealth Management App",
+      "location": "Seoul, Korea, Seoul South Korea Seoul",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/28de3bff-1fa5-4525-99eb-cf288be6f98c",
+      "postedAt": "2026-11-24",
+      "employmentType": "FullTime",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "isTech": true,
+      "seniority": "lead",
+      "remote": "remote",
+      "stacks": [],
       "isAi": false
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:09:11+00:00",
+  "generatedAt": "2026-11-25T03:57:30+00:00",
   "reports": [
     {
       "slug": "2026-w48",
@@ -9,23 +9,23 @@
       "end": "2026-11-29",
       "partial": true,
       "title": "2026년 11월 4주차 테크 채용 리포트",
-      "summary": "2026년 11월 4주차(11/23~11/29) 국내 테크 기업의 신규 개발 공고는 18건이었습니다. 가장 많이 언급된 스택은 Kotlin(8건), 가장 많은 직군은 모바일(11건)입니다.",
+      "summary": "2026년 11월 4주차(11/23~11/29) 국내 테크 기업의 신규 개발 공고는 38건이었습니다. 가장 많이 언급된 스택은 Kotlin(8건), 가장 많은 직군은 소프트웨어 엔지니어링(19건)입니다.",
       "sections": [
         {
           "heading": "이번 주 숫자",
-          "body": "신규 개발 공고 18건, AI 관련 10건(56%), 원격·하이브리드 18건(100%)입니다."
+          "body": "신규 개발 공고 38건, AI 관련 15건(39%), 원격·하이브리드 35건(92%)입니다."
         },
         {
           "heading": "스택 Top 5",
-          "body": "Kotlin 8건, TensorFlow 4건, Swift 4건, LLM 3건, Python 2건"
+          "body": "Kotlin 8건, LLM 4건, Python 4건, TensorFlow 4건, Swift 4건"
         },
         {
           "heading": "직군 분포",
-          "body": "모바일 11건, ML / AI 2건, 백엔드 2건"
+          "body": "소프트웨어 엔지니어링 19건, 모바일 11건, ML / AI 3건"
         },
         {
           "heading": "기업별 신규 공고",
-          "body": "BJAK 17건, 채널톡 1건"
+          "body": "BJAK 34건, 쿠팡 2건, 크래프톤 1건, 채널톡 1건"
         },
         {
           "heading": "관찰",
@@ -33,15 +33,25 @@
         }
       ],
       "stats": {
-        "jobs": 18,
-        "aiJobs": 10,
-        "aiShare": 56,
-        "remoteShare": 100,
+        "jobs": 38,
+        "aiJobs": 15,
+        "aiShare": 39,
+        "remoteShare": 92,
         "topStacks": [
           {
             "slug": "kotlin",
             "name": "Kotlin",
             "count": 8
+          },
+          {
+            "slug": "llm",
+            "name": "LLM",
+            "count": 4
+          },
+          {
+            "slug": "python",
+            "name": "Python",
+            "count": 4
           },
           {
             "slug": "tensorflow",
@@ -52,19 +62,14 @@
             "slug": "swift",
             "name": "Swift",
             "count": 4
-          },
-          {
-            "slug": "llm",
-            "name": "LLM",
-            "count": 3
-          },
-          {
-            "slug": "python",
-            "name": "Python",
-            "count": 2
           }
         ],
         "topRoles": [
+          {
+            "slug": "engineering",
+            "name": "소프트웨어 엔지니어링",
+            "count": 19
+          },
           {
             "slug": "mobile",
             "name": "모바일",
@@ -73,19 +78,24 @@
           {
             "slug": "ml",
             "name": "ML / AI",
-            "count": 2
-          },
-          {
-            "slug": "backend",
-            "name": "백엔드",
-            "count": 2
+            "count": 3
           }
         ],
         "topCompanies": [
           {
             "slug": "bjak",
             "name": "BJAK",
-            "count": 17
+            "count": 34
+          },
+          {
+            "slug": "coupang",
+            "name": "쿠팡",
+            "count": 2
+          },
+          {
+            "slug": "krafton",
+            "name": "크래프톤",
+            "count": 1
           },
           {
             "slug": "channel-corp",
@@ -212,23 +222,23 @@
       "end": "2026-11-15",
       "partial": false,
       "title": "2026년 11월 2주차 테크 채용 리포트",
-      "summary": "2026년 11월 2주차(11/9~11/15) 국내 테크 기업의 신규 개발 공고는 16건이었습니다. 가장 많이 언급된 스택은 Python(7건), 가장 많은 직군은 백엔드(4건)입니다.",
+      "summary": "2026년 11월 2주차(11/9~11/15) 국내 테크 기업의 신규 개발 공고는 15건이었습니다. 가장 많이 언급된 스택은 Python(7건), 가장 많은 직군은 백엔드(3건)입니다.",
       "sections": [
         {
           "heading": "이번 주 숫자",
-          "body": "신규 개발 공고 16건, AI 관련 3건(19%), 원격·하이브리드 3건(19%)입니다."
+          "body": "신규 개발 공고 15건, AI 관련 3건(20%), 원격·하이브리드 3건(20%)입니다."
         },
         {
           "heading": "스택 Top 5",
-          "body": "Python 7건, Java 6건, AI 에이전트 5건, Kubernetes 5건, AWS 5건"
+          "body": "Python 7건, AI 에이전트 5건, Kubernetes 5건, Java 5건, AWS 5건"
         },
         {
           "heading": "직군 분포",
-          "body": "백엔드 4건, ML / AI 3건, 보안 3건"
+          "body": "백엔드 3건, ML / AI 3건, 보안 3건"
         },
         {
           "heading": "기업별 신규 공고",
-          "body": "쿠팡 12건, 채널톡 2건, 크래프톤 1건, Anthropic 1건"
+          "body": "쿠팡 11건, 채널톡 2건, 크래프톤 1건, Anthropic 1건"
         },
         {
           "heading": "관찰",
@@ -236,20 +246,15 @@
         }
       ],
       "stats": {
-        "jobs": 16,
+        "jobs": 15,
         "aiJobs": 3,
-        "aiShare": 19,
-        "remoteShare": 19,
+        "aiShare": 20,
+        "remoteShare": 20,
         "topStacks": [
           {
             "slug": "python",
             "name": "Python",
             "count": 7
-          },
-          {
-            "slug": "java",
-            "name": "Java",
-            "count": 6
           },
           {
             "slug": "agent",
@@ -262,6 +267,11 @@
             "count": 5
           },
           {
+            "slug": "java",
+            "name": "Java",
+            "count": 5
+          },
+          {
             "slug": "aws",
             "name": "AWS",
             "count": 5
@@ -271,7 +281,7 @@
           {
             "slug": "backend",
             "name": "백엔드",
-            "count": 4
+            "count": 3
           },
           {
             "slug": "ml",
@@ -288,7 +298,7 @@
           {
             "slug": "coupang",
             "name": "쿠팡",
-            "count": 12
+            "count": 11
           },
           {
             "slug": "channel-corp",
@@ -425,11 +435,11 @@
       "end": "2026-11-01",
       "partial": false,
       "title": "2026년 10월 4주차 테크 채용 리포트",
-      "summary": "2026년 10월 4주차(10/26~11/1) 국내 테크 기업의 신규 개발 공고는 25건이었습니다. 가장 많이 언급된 스택은 Python(5건), 가장 많은 직군은 소프트웨어 엔지니어링(18건)입니다.",
+      "summary": "2026년 10월 4주차(10/26~11/1) 국내 테크 기업의 신규 개발 공고는 8건이었습니다. 가장 많이 언급된 스택은 Python(5건), 가장 많은 직군은 보안(2건)입니다.",
       "sections": [
         {
           "heading": "이번 주 숫자",
-          "body": "신규 개발 공고 25건, AI 관련 6건(24%), 원격·하이브리드 18건(72%)입니다."
+          "body": "신규 개발 공고 8건, AI 관련 2건(25%), 원격·하이브리드 1건(12%)입니다."
         },
         {
           "heading": "스택 Top 5",
@@ -437,22 +447,22 @@
         },
         {
           "heading": "직군 분포",
-          "body": "소프트웨어 엔지니어링 18건, 보안 2건, ML / AI 2건"
+          "body": "보안 2건, ML / AI 2건, 모바일 1건"
         },
         {
           "heading": "기업별 신규 공고",
-          "body": "BJAK 17건, 쿠팡 5건, 루닛 1건, Databricks 1건, 몰로코 1건"
+          "body": "쿠팡 5건, 루닛 1건, Databricks 1건, 몰로코 1건"
         },
         {
           "heading": "관찰",
-          "body": "AI 관련 공고가 일정 비중을 유지하고 있습니다. 직군별로는 ML/AI와 백엔드의 경계가 흐려지는 흐름이 보입니다. 원격·하이브리드 비중이 높은 주였습니다."
+          "body": "AI 관련 공고가 일정 비중을 유지하고 있습니다. 직군별로는 ML/AI와 백엔드의 경계가 흐려지는 흐름이 보입니다. 대부분 현장 근무 공고였습니다."
         }
       ],
       "stats": {
-        "jobs": 25,
-        "aiJobs": 6,
-        "aiShare": 24,
-        "remoteShare": 72,
+        "jobs": 8,
+        "aiJobs": 2,
+        "aiShare": 25,
+        "remoteShare": 12,
         "topStacks": [
           {
             "slug": "python",
@@ -482,11 +492,6 @@
         ],
         "topRoles": [
           {
-            "slug": "engineering",
-            "name": "소프트웨어 엔지니어링",
-            "count": 18
-          },
-          {
             "slug": "security",
             "name": "보안",
             "count": 2
@@ -495,14 +500,14 @@
             "slug": "ml",
             "name": "ML / AI",
             "count": 2
+          },
+          {
+            "slug": "mobile",
+            "name": "모바일",
+            "count": 1
           }
         ],
         "topCompanies": [
-          {
-            "slug": "bjak",
-            "name": "BJAK",
-            "count": 17
-          },
           {
             "slug": "coupang",
             "name": "쿠팡",
@@ -638,23 +643,23 @@
       "end": "2026-10-18",
       "partial": false,
       "title": "2026년 10월 2주차 테크 채용 리포트",
-      "summary": "2026년 10월 2주차(10/12~10/18) 국내 테크 기업의 신규 개발 공고는 3건이었습니다. 가장 많이 언급된 스택은 Python(3건), 가장 많은 직군은 ML / AI(2건)입니다.",
+      "summary": "2026년 10월 2주차(10/12~10/18) 국내 테크 기업의 신규 개발 공고는 2건이었습니다. 가장 많이 언급된 스택은 Python(2건), 가장 많은 직군은 ML / AI(1건)입니다.",
       "sections": [
         {
           "heading": "이번 주 숫자",
-          "body": "신규 개발 공고 3건, AI 관련 3건(100%), 원격·하이브리드 2건(67%)입니다."
+          "body": "신규 개발 공고 2건, AI 관련 2건(100%), 원격·하이브리드 2건(100%)입니다."
         },
         {
           "heading": "스택 Top 5",
-          "body": "Python 3건, LLM 2건, MLOps 1건, TypeScript 1건, JavaScript 1건"
+          "body": "Python 2건, MLOps 1건, TypeScript 1건, JavaScript 1건, LLM 1건"
         },
         {
           "heading": "직군 분포",
-          "body": "ML / AI 2건, 솔루션 엔지니어링 1건"
+          "body": "ML / AI 1건, 솔루션 엔지니어링 1건"
         },
         {
           "heading": "기업별 신규 공고",
-          "body": "Gauss Labs 1건, Cohere 1건, 쿠팡 1건"
+          "body": "Gauss Labs 1건, Cohere 1건"
         },
         {
           "heading": "관찰",
@@ -662,19 +667,14 @@
         }
       ],
       "stats": {
-        "jobs": 3,
-        "aiJobs": 3,
+        "jobs": 2,
+        "aiJobs": 2,
         "aiShare": 100,
-        "remoteShare": 67,
+        "remoteShare": 100,
         "topStacks": [
           {
             "slug": "python",
             "name": "Python",
-            "count": 3
-          },
-          {
-            "slug": "llm",
-            "name": "LLM",
             "count": 2
           },
           {
@@ -691,13 +691,18 @@
             "slug": "javascript",
             "name": "JavaScript",
             "count": 1
+          },
+          {
+            "slug": "llm",
+            "name": "LLM",
+            "count": 1
           }
         ],
         "topRoles": [
           {
             "slug": "ml",
             "name": "ML / AI",
-            "count": 2
+            "count": 1
           },
           {
             "slug": "solutions",
@@ -714,11 +719,6 @@
           {
             "slug": "cohere",
             "name": "Cohere",
-            "count": 1
-          },
-          {
-            "slug": "coupang",
-            "name": "쿠팡",
             "count": 1
           }
         ]
