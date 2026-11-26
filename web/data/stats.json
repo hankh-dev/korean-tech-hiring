@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-25T03:57:30+00:00",
+  "generatedAt": "2026-11-26T03:23:28+00:00",
   "totals": {
-    "allKoreaJobs": 743,
-    "techJobs": 257,
+    "allKoreaJobs": 742,
+    "techJobs": 251,
     "companies": 23,
-    "aiJobs": 66,
-    "remoteJobs": 53,
-    "hybridJobs": 44,
-    "new7d": 44,
-    "new30d": 95,
-    "stacks": 75
+    "aiJobs": 65,
+    "remoteJobs": 54,
+    "hybridJobs": 46,
+    "new7d": 46,
+    "new30d": 94,
+    "stacks": 74
   },
   "stacks": [
     {
@@ -17,27 +17,27 @@
       "name": "Python",
       "category": "언어",
       "blurb": "데이터·백엔드·AI 전반에서 가장 폭넓게 쓰이는 언어입니다.",
-      "count": 95,
-      "share": 37,
-      "new7d": 4,
-      "delta7d": 1,
-      "deltaPct": 33,
+      "count": 97,
+      "share": 39,
+      "new7d": 6,
+      "delta7d": 4,
+      "deltaPct": 200,
       "companies": [
         {
           "name": "쿠팡",
-          "count": 38
+          "count": 39
         },
         {
           "name": "당근",
           "count": 9
         },
         {
-          "name": "크래프톤",
+          "name": "몰로코",
           "count": 8
         },
         {
-          "name": "몰로코",
-          "count": 7
+          "name": "크래프톤",
+          "count": 8
         },
         {
           "name": "채널톡",
@@ -50,7 +50,7 @@
       "name": "LLM",
       "category": "데이터/AI",
       "blurb": "생성형 AI 제품 개발 수요와 함께 언급이 빠르게 늘고 있습니다.",
-      "count": 71,
+      "count": 70,
       "share": 28,
       "new7d": 6,
       "delta7d": 1,
@@ -58,7 +58,7 @@
       "companies": [
         {
           "name": "크래프톤",
-          "count": 19
+          "count": 18
         },
         {
           "name": "쿠팡",
@@ -83,15 +83,15 @@
       "name": "AWS",
       "category": "인프라",
       "blurb": "국내 채용 공고에서 가장 많이 언급되는 클라우드 플랫폼입니다.",
-      "count": 66,
-      "share": 26,
+      "count": 64,
+      "share": 25,
       "new7d": 3,
-      "delta7d": -2,
-      "deltaPct": -40,
+      "delta7d": 0,
+      "deltaPct": 0,
       "companies": [
         {
           "name": "쿠팡",
-          "count": 31
+          "count": 29
         },
         {
           "name": "당근",
@@ -116,11 +116,11 @@
       "name": "Kubernetes",
       "category": "인프라",
       "blurb": "컨테이너 오케스트레이션 표준으로, DevOps·플랫폼 직군의 필수 역량입니다.",
-      "count": 53,
-      "share": 21,
+      "count": 54,
+      "share": 22,
       "new7d": 2,
-      "delta7d": -3,
-      "deltaPct": -60,
+      "delta7d": -2,
+      "deltaPct": -50,
       "companies": [
         {
           "name": "쿠팡",
@@ -149,15 +149,15 @@
       "name": "Java",
       "category": "언어",
       "blurb": "대규모 백엔드와 금융·커머스 시스템에서 꾸준히 수요가 큰 언어입니다.",
-      "count": 49,
-      "share": 19,
+      "count": 45,
+      "share": 18,
       "new7d": 1,
-      "delta7d": -3,
-      "deltaPct": -75,
+      "delta7d": -1,
+      "deltaPct": -50,
       "companies": [
         {
           "name": "쿠팡",
-          "count": 28
+          "count": 24
         },
         {
           "name": "몰로코",
@@ -183,10 +183,10 @@
       "category": "인프라",
       "blurb": "데이터·ML 워크로드에서 자주 선택되는 클라우드입니다.",
       "count": 44,
-      "share": 17,
-      "new7d": 1,
-      "delta7d": -1,
-      "deltaPct": -50,
+      "share": 18,
+      "new7d": 2,
+      "delta7d": 1,
+      "deltaPct": 100,
       "companies": [
         {
           "name": "쿠팡",
@@ -216,10 +216,10 @@
       "category": "언어",
       "blurb": "안드로이드 네이티브와 서버 개발에서 함께 쓰입니다.",
       "count": 42,
-      "share": 16,
-      "new7d": 9,
-      "delta7d": 1,
-      "deltaPct": 12,
+      "share": 17,
+      "new7d": 8,
+      "delta7d": 2,
+      "deltaPct": 33,
       "companies": [
         {
           "name": "쿠팡",
@@ -248,22 +248,22 @@
       "name": "AI 에이전트",
       "category": "데이터/AI",
       "blurb": "AI 에이전트 구축 경험이 채용 요건으로 등장하고 있습니다.",
-      "count": 35,
+      "count": 36,
       "share": 14,
-      "new7d": 1,
-      "delta7d": -5,
-      "deltaPct": -83,
+      "new7d": 2,
+      "delta7d": -2,
+      "deltaPct": -50,
       "companies": [
         {
           "name": "크래프톤",
-          "count": 10
-        },
-        {
-          "name": "당근",
-          "count": 6
+          "count": 9
         },
         {
           "name": "쿠팡",
+          "count": 7
+        },
+        {
+          "name": "당근",
           "count": 6
         },
         {
@@ -271,7 +271,7 @@
           "count": 4
         },
         {
-          "name": "Cohere",
+          "name": "몰로코",
           "count": 2
         }
       ]
@@ -281,15 +281,15 @@
       "name": "Kafka",
       "category": "데이터베이스",
       "blurb": "대용량 이벤트 스트리밍과 데이터 파이프라인의 핵심입니다.",
-      "count": 28,
+      "count": 27,
       "share": 11,
-      "new7d": 2,
-      "delta7d": -4,
-      "deltaPct": -67,
+      "new7d": 0,
+      "delta7d": -6,
+      "deltaPct": -100,
       "companies": [
         {
           "name": "쿠팡",
-          "count": 10
+          "count": 9
         },
         {
           "name": "당근",
@@ -347,15 +347,15 @@
       "name": "Apache Spark",
       "category": "데이터/AI",
       "blurb": "대규모 분산 데이터 처리에 사용됩니다.",
-      "count": 23,
+      "count": 22,
       "share": 9,
-      "new7d": 1,
-      "delta7d": 0,
-      "deltaPct": 0,
+      "new7d": 0,
+      "delta7d": -1,
+      "deltaPct": -100,
       "companies": [
         {
           "name": "쿠팡",
-          "count": 8
+          "count": 7
         },
         {
           "name": "Databricks",
@@ -382,16 +382,16 @@
       "blurb": "프론트엔드와 Node.js 백엔드에서 타입 안정성을 위해 널리 사용됩니다.",
       "count": 21,
       "share": 8,
-      "new7d": 1,
-      "delta7d": -1,
-      "deltaPct": -50,
+      "new7d": 2,
+      "delta7d": 0,
+      "deltaPct": 0,
       "companies": [
         {
-          "name": "쿠팡",
-          "count": 5
+          "name": "당근",
+          "count": 4
         },
         {
-          "name": "당근",
+          "name": "쿠팡",
           "count": 4
         },
         {
@@ -399,11 +399,11 @@
           "count": 3
         },
         {
-          "name": "채널톡",
+          "name": "몰로코",
           "count": 2
         },
         {
-          "name": "Palantir",
+          "name": "채널톡",
           "count": 2
         }
       ]
@@ -415,17 +415,21 @@
       "blurb": "웹 프론트엔드의 기본 언어로, React·Vue 생태계의 기반입니다.",
       "count": 20,
       "share": 8,
-      "new7d": 1,
-      "delta7d": -1,
-      "deltaPct": -50,
+      "new7d": 2,
+      "delta7d": 1,
+      "deltaPct": 100,
       "companies": [
         {
           "name": "쿠팡",
-          "count": 10
+          "count": 9
         },
         {
           "name": "OpenAI",
           "count": 3
+        },
+        {
+          "name": "몰로코",
+          "count": 2
         },
         {
           "name": "Palantir",
@@ -433,43 +437,6 @@
         },
         {
           "name": "BJAK",
-          "count": 1
-        },
-        {
-          "name": "Cohere",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "slug": "redis",
-      "name": "Redis",
-      "category": "데이터베이스",
-      "blurb": "캐시·세션·큐 용도로 폭넓게 사용됩니다.",
-      "count": 17,
-      "share": 7,
-      "new7d": 1,
-      "delta7d": -5,
-      "deltaPct": -83,
-      "companies": [
-        {
-          "name": "당근",
-          "count": 8
-        },
-        {
-          "name": "쿠팡",
-          "count": 5
-        },
-        {
-          "name": "Xsolla",
-          "count": 2
-        },
-        {
-          "name": "채널톡",
-          "count": 1
-        },
-        {
-          "name": "루닛",
           "count": 1
         }
       ]
@@ -479,15 +446,15 @@
       "name": "Docker",
       "category": "인프라",
       "blurb": "개발·배포 환경을 통일하는 기본 도구입니다.",
-      "count": 17,
+      "count": 18,
       "share": 7,
       "new7d": 0,
-      "delta7d": -2,
-      "deltaPct": -100,
+      "delta7d": 0,
+      "deltaPct": null,
       "companies": [
         {
           "name": "쿠팡",
-          "count": 9
+          "count": 10
         },
         {
           "name": "채널톡",
@@ -512,15 +479,15 @@
       "name": "Terraform",
       "category": "인프라",
       "blurb": "클라우드 인프라를 코드로 관리하는 IaC 표준입니다.",
-      "count": 16,
-      "share": 6,
-      "new7d": 2,
-      "delta7d": 0,
-      "deltaPct": 0,
+      "count": 17,
+      "share": 7,
+      "new7d": 3,
+      "delta7d": 2,
+      "deltaPct": 200,
       "companies": [
         {
           "name": "쿠팡",
-          "count": 4
+          "count": 5
         },
         {
           "name": "채널톡",
@@ -541,15 +508,48 @@
       ]
     },
     {
+      "slug": "anthropic",
+      "name": "Anthropic / Claude",
+      "category": "데이터/AI",
+      "blurb": "Claude API 기반 서비스와 AI 에이전트 개발에서 언급됩니다.",
+      "count": 16,
+      "share": 6,
+      "new7d": 1,
+      "delta7d": 0,
+      "deltaPct": 0,
+      "companies": [
+        {
+          "name": "쿠팡",
+          "count": 4
+        },
+        {
+          "name": "당근",
+          "count": 3
+        },
+        {
+          "name": "크래프톤",
+          "count": 3
+        },
+        {
+          "name": "채널톡",
+          "count": 3
+        },
+        {
+          "name": "몰로코",
+          "count": 1
+        }
+      ]
+    },
+    {
       "slug": "bigquery",
       "name": "BigQuery",
       "category": "데이터베이스",
       "blurb": "GCP의 서버리스 데이터 웨어하우스입니다.",
       "count": 16,
       "share": 6,
-      "new7d": 1,
-      "delta7d": -1,
-      "deltaPct": -50,
+      "new7d": 0,
+      "delta7d": -3,
+      "deltaPct": -100,
       "companies": [
         {
           "name": "당근",
@@ -566,34 +566,34 @@
       ]
     },
     {
-      "slug": "anthropic",
-      "name": "Anthropic / Claude",
-      "category": "데이터/AI",
-      "blurb": "Claude API 기반 서비스와 AI 에이전트 개발에서 언급됩니다.",
+      "slug": "redis",
+      "name": "Redis",
+      "category": "데이터베이스",
+      "blurb": "캐시·세션·큐 용도로 폭넓게 사용됩니다.",
       "count": 15,
       "share": 6,
       "new7d": 0,
-      "delta7d": -2,
+      "delta7d": -5,
       "deltaPct": -100,
       "companies": [
         {
-          "name": "쿠팡",
-          "count": 4
-        },
-        {
           "name": "당근",
+          "count": 8
+        },
+        {
+          "name": "쿠팡",
           "count": 3
         },
         {
-          "name": "크래프톤",
-          "count": 3
+          "name": "Xsolla",
+          "count": 2
         },
         {
           "name": "채널톡",
-          "count": 3
+          "count": 1
         },
         {
-          "name": "Cohere",
+          "name": "루닛",
           "count": 1
         }
       ]
@@ -604,14 +604,18 @@
       "category": "데이터/AI",
       "blurb": "검색과 생성형 AI를 결합한 사내 지식 서비스에서 주목받습니다.",
       "count": 14,
-      "share": 5,
-      "new7d": 3,
-      "delta7d": 2,
-      "deltaPct": 200,
+      "share": 6,
+      "new7d": 4,
+      "delta7d": 4,
+      "deltaPct": null,
       "companies": [
         {
           "name": "크래프톤",
-          "count": 4
+          "count": 3
+        },
+        {
+          "name": "쿠팡",
+          "count": 2
         },
         {
           "name": "BJAK",
@@ -624,10 +628,6 @@
         {
           "name": "센드버드",
           "count": 2
-        },
-        {
-          "name": "Elastic",
-          "count": 1
         }
       ]
     },
@@ -638,9 +638,9 @@
       "blurb": "데이터 파이프라인 스케줄링·오케스트레이션 도구입니다.",
       "count": 12,
       "share": 5,
-      "new7d": 1,
-      "delta7d": 1,
-      "deltaPct": null,
+      "new7d": 0,
+      "delta7d": -1,
+      "deltaPct": -100,
       "companies": [
         {
           "name": "쿠팡",
@@ -661,19 +661,77 @@
       ]
     },
     {
-      "slug": "nodejs",
-      "name": "Node.js",
-      "category": "백엔드",
-      "blurb": "API 서버와 풀스택 개발에서 빠르게 도입되는 런타임입니다.",
+      "slug": "linux",
+      "name": "Linux",
+      "category": "인프라",
+      "blurb": "서버 운영의 기본이 되는 운영체제입니다.",
       "count": 12,
       "share": 5,
       "new7d": 0,
-      "delta7d": -3,
+      "delta7d": -2,
       "deltaPct": -100,
       "companies": [
         {
           "name": "쿠팡",
-          "count": 5
+          "count": 7
+        },
+        {
+          "name": "크래프톤",
+          "count": 1
+        },
+        {
+          "name": "채널톡",
+          "count": 1
+        },
+        {
+          "name": "루닛",
+          "count": 1
+        },
+        {
+          "name": "GitLab",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "grpc",
+      "name": "gRPC",
+      "category": "백엔드",
+      "blurb": "마이크로서비스 간 고성능 RPC 통신에 사용됩니다.",
+      "count": 11,
+      "share": 4,
+      "new7d": 1,
+      "delta7d": -3,
+      "deltaPct": -75,
+      "companies": [
+        {
+          "name": "당근",
+          "count": 9
+        },
+        {
+          "name": "쿠팡",
+          "count": 1
+        },
+        {
+          "name": "몰로코",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "nodejs",
+      "name": "Node.js",
+      "category": "백엔드",
+      "blurb": "API 서버와 풀스택 개발에서 빠르게 도입되는 런타임입니다.",
+      "count": 11,
+      "share": 4,
+      "new7d": 0,
+      "delta7d": -2,
+      "deltaPct": -100,
+      "companies": [
+        {
+          "name": "쿠팡",
+          "count": 4
         },
         {
           "name": "당근",
@@ -698,7 +756,7 @@
       "name": "MLOps",
       "category": "데이터/AI",
       "blurb": "모델 배포·모니터링·재학습을 운영하는 역량입니다.",
-      "count": 11,
+      "count": 10,
       "share": 4,
       "new7d": 1,
       "delta7d": 1,
@@ -710,7 +768,7 @@
         },
         {
           "name": "Databricks",
-          "count": 3
+          "count": 2
         },
         {
           "name": "크래프톤",
@@ -722,39 +780,6 @@
         },
         {
           "name": "채널톡",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "slug": "linux",
-      "name": "Linux",
-      "category": "인프라",
-      "blurb": "서버 운영의 기본이 되는 운영체제입니다.",
-      "count": 11,
-      "share": 4,
-      "new7d": 1,
-      "delta7d": 0,
-      "deltaPct": 0,
-      "companies": [
-        {
-          "name": "쿠팡",
-          "count": 7
-        },
-        {
-          "name": "크래프톤",
-          "count": 1
-        },
-        {
-          "name": "채널톡",
-          "count": 1
-        },
-        {
-          "name": "루닛",
-          "count": 1
-        },
-        {
-          "name": "당근",
           "count": 1
         }
       ]
@@ -767,8 +792,8 @@
       "count": 10,
       "share": 4,
       "new7d": 4,
-      "delta7d": 1,
-      "deltaPct": 33,
+      "delta7d": 3,
+      "deltaPct": 300,
       "companies": [
         {
           "name": "쿠팡",
@@ -785,36 +810,15 @@
       ]
     },
     {
-      "slug": "grpc",
-      "name": "gRPC",
-      "category": "백엔드",
-      "blurb": "마이크로서비스 간 고성능 RPC 통신에 사용됩니다.",
-      "count": 10,
-      "share": 4,
-      "new7d": 1,
-      "delta7d": -2,
-      "deltaPct": -67,
-      "companies": [
-        {
-          "name": "당근",
-          "count": 9
-        },
-        {
-          "name": "몰로코",
-          "count": 1
-        }
-      ]
-    },
-    {
       "slug": "postgresql",
       "name": "PostgreSQL",
       "category": "데이터베이스",
       "blurb": "오픈소스 관계형 DB의 대표주자로, 스타트업에서 채택이 많습니다.",
       "count": 10,
       "share": 4,
-      "new7d": 1,
-      "delta7d": 1,
-      "deltaPct": null,
+      "new7d": 0,
+      "delta7d": -1,
+      "deltaPct": -100,
       "companies": [
         {
           "name": "Gauss Labs",
@@ -845,9 +849,9 @@
       "blurb": "국내 웹 서비스에서 여전히 널리 쓰이는 관계형 DB입니다.",
       "count": 10,
       "share": 4,
-      "new7d": 1,
-      "delta7d": -2,
-      "deltaPct": -67,
+      "new7d": 0,
+      "delta7d": -4,
+      "deltaPct": -100,
       "companies": [
         {
           "name": "당근",
@@ -1025,23 +1029,6 @@
       ]
     },
     {
-      "slug": "cassandra",
-      "name": "Cassandra",
-      "category": "데이터베이스",
-      "blurb": "대규모 분산 쓰기 워크로드에 사용됩니다.",
-      "count": 7,
-      "share": 3,
-      "new7d": 1,
-      "delta7d": 0,
-      "deltaPct": 0,
-      "companies": [
-        {
-          "name": "쿠팡",
-          "count": 7
-        }
-      ]
-    },
-    {
       "slug": "openai",
       "name": "OpenAI API",
       "category": "데이터/AI",
@@ -1049,7 +1036,7 @@
       "count": 7,
       "share": 3,
       "new7d": 0,
-      "delta7d": -2,
+      "delta7d": -1,
       "deltaPct": -100,
       "companies": [
         {
@@ -1129,6 +1116,23 @@
         {
           "name": "Gauss Labs",
           "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "cassandra",
+      "name": "Cassandra",
+      "category": "데이터베이스",
+      "blurb": "대규모 분산 쓰기 워크로드에 사용됩니다.",
+      "count": 6,
+      "share": 2,
+      "new7d": 0,
+      "delta7d": -1,
+      "deltaPct": -100,
+      "companies": [
+        {
+          "name": "쿠팡",
+          "count": 6
         }
       ]
     },
@@ -1214,9 +1218,9 @@
       "blurb": "대용량 데이터 저장·처리 생태계입니다.",
       "count": 5,
       "share": 2,
-      "new7d": 1,
-      "delta7d": 1,
-      "deltaPct": null,
+      "new7d": 0,
+      "delta7d": -1,
+      "deltaPct": -100,
       "companies": [
         {
           "name": "쿠팡",
@@ -1240,7 +1244,7 @@
       "count": 5,
       "share": 2,
       "new7d": 0,
-      "delta7d": -3,
+      "delta7d": -1,
       "deltaPct": -100,
       "companies": [
         {
@@ -1257,7 +1261,7 @@
       "count": 5,
       "share": 2,
       "new7d": 0,
-      "delta7d": -2,
+      "delta7d": -1,
       "deltaPct": -100,
       "companies": [
         {
@@ -1286,7 +1290,7 @@
       "count": 5,
       "share": 2,
       "new7d": 0,
-      "delta7d": -2,
+      "delta7d": -1,
       "deltaPct": -100,
       "companies": [
         {
@@ -1307,8 +1311,8 @@
       "count": 5,
       "share": 2,
       "new7d": 0,
-      "delta7d": -1,
-      "deltaPct": -100,
+      "delta7d": 0,
+      "deltaPct": null,
       "companies": [
         {
           "name": "Databricks",
@@ -1320,35 +1324,6 @@
         },
         {
           "name": "쿠팡",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "slug": "rust",
-      "name": "Rust",
-      "category": "언어",
-      "blurb": "메모리 안전성과 성능이 중요한 시스템·인프라 영역에서 채택이 늘고 있습니다.",
-      "count": 5,
-      "share": 2,
-      "new7d": 0,
-      "delta7d": 0,
-      "deltaPct": null,
-      "companies": [
-        {
-          "name": "Gauss Labs",
-          "count": 2
-        },
-        {
-          "name": "루닛",
-          "count": 1
-        },
-        {
-          "name": "쿠팡",
-          "count": 1
-        },
-        {
-          "name": "당근",
           "count": 1
         }
       ]
@@ -1374,35 +1349,6 @@
         },
         {
           "name": "당근",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "slug": "prompt",
-      "name": "프롬프트 엔지니어링",
-      "category": "데이터/AI",
-      "blurb": "LLM 출력을 제품 요구에 맞게 설계하는 역량입니다.",
-      "count": 5,
-      "share": 2,
-      "new7d": 0,
-      "delta7d": 0,
-      "deltaPct": null,
-      "companies": [
-        {
-          "name": "센드버드",
-          "count": 2
-        },
-        {
-          "name": "Cohere",
-          "count": 1
-        },
-        {
-          "name": "쿠팡",
-          "count": 1
-        },
-        {
-          "name": "크래프톤",
           "count": 1
         }
       ]
@@ -1435,9 +1381,9 @@
       "blurb": "국내 SI·커머스 프론트엔드에서 꾸준히 사용되는 프레임워크입니다.",
       "count": 4,
       "share": 2,
-      "new7d": 2,
-      "delta7d": 2,
-      "deltaPct": null,
+      "new7d": 1,
+      "delta7d": 0,
+      "deltaPct": 0,
       "companies": [
         {
           "name": "쿠팡",
@@ -1454,15 +1400,40 @@
       ]
     },
     {
+      "slug": "ruby",
+      "name": "Ruby",
+      "category": "언어",
+      "blurb": "Rails 기반 스타트업 웹 서비스에서 사용됩니다.",
+      "count": 4,
+      "share": 2,
+      "new7d": 0,
+      "delta7d": -1,
+      "deltaPct": -100,
+      "companies": [
+        {
+          "name": "당근",
+          "count": 2
+        },
+        {
+          "name": "Datadog",
+          "count": 1
+        },
+        {
+          "name": "GitLab",
+          "count": 1
+        }
+      ]
+    },
+    {
       "slug": "fastapi",
       "name": "FastAPI",
       "category": "백엔드",
       "blurb": "Python 비동기 API 서버와 AI 서빙에서 채택이 늘고 있습니다.",
       "count": 4,
       "share": 2,
-      "new7d": 1,
-      "delta7d": 1,
-      "deltaPct": null,
+      "new7d": 0,
+      "delta7d": -1,
+      "deltaPct": -100,
       "companies": [
         {
           "name": "당근",
@@ -1504,22 +1475,51 @@
       ]
     },
     {
-      "slug": "ruby",
-      "name": "Ruby",
+      "slug": "rust",
+      "name": "Rust",
       "category": "언어",
-      "blurb": "Rails 기반 스타트업 웹 서비스에서 사용됩니다.",
-      "count": 3,
-      "share": 1,
-      "new7d": 1,
-      "delta7d": 1,
+      "blurb": "메모리 안전성과 성능이 중요한 시스템·인프라 영역에서 채택이 늘고 있습니다.",
+      "count": 4,
+      "share": 2,
+      "new7d": 0,
+      "delta7d": 0,
       "deltaPct": null,
       "companies": [
         {
-          "name": "당근",
+          "name": "Gauss Labs",
           "count": 2
         },
         {
-          "name": "Datadog",
+          "name": "루닛",
+          "count": 1
+        },
+        {
+          "name": "당근",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "prompt",
+      "name": "프롬프트 엔지니어링",
+      "category": "데이터/AI",
+      "blurb": "LLM 출력을 제품 요구에 맞게 설계하는 역량입니다.",
+      "count": 4,
+      "share": 2,
+      "new7d": 0,
+      "delta7d": 0,
+      "deltaPct": null,
+      "companies": [
+        {
+          "name": "센드버드",
+          "count": 2
+        },
+        {
+          "name": "Cohere",
+          "count": 1
+        },
+        {
+          "name": "쿠팡",
           "count": 1
         }
       ]
@@ -1532,8 +1532,8 @@
       "count": 3,
       "share": 1,
       "new7d": 0,
-      "delta7d": -1,
-      "deltaPct": -100,
+      "delta7d": 0,
+      "deltaPct": null,
       "companies": [
         {
           "name": "쿠팡",
@@ -1617,6 +1617,27 @@
       ]
     },
     {
+      "slug": "rails",
+      "name": "Ruby on Rails",
+      "category": "백엔드",
+      "blurb": "빠른 MVP 개발로 유명한 Ruby 웹 프레임워크입니다.",
+      "count": 2,
+      "share": 1,
+      "new7d": 0,
+      "delta7d": -1,
+      "deltaPct": -100,
+      "companies": [
+        {
+          "name": "당근",
+          "count": 1
+        },
+        {
+          "name": "GitLab",
+          "count": 1
+        }
+      ]
+    },
+    {
       "slug": "opensearch",
       "name": "OpenSearch",
       "category": "인프라",
@@ -1624,7 +1645,7 @@
       "count": 2,
       "share": 1,
       "new7d": 0,
-      "delta7d": -2,
+      "delta7d": -1,
       "deltaPct": -100,
       "companies": [
         {
@@ -1786,27 +1807,6 @@
       ]
     },
     {
-      "slug": "elasticsearch",
-      "name": "Elasticsearch",
-      "category": "인프라",
-      "blurb": "검색·로그 분석에 널리 쓰이는 분산 검색 엔진입니다.",
-      "count": 2,
-      "share": 1,
-      "new7d": 0,
-      "delta7d": 0,
-      "deltaPct": null,
-      "companies": [
-        {
-          "name": "Gauss Labs",
-          "count": 1
-        },
-        {
-          "name": "쿠팡",
-          "count": 1
-        }
-      ]
-    },
-    {
       "slug": "nextjs",
       "name": "Next.js",
       "category": "프론트엔드",
@@ -1819,23 +1819,6 @@
       "companies": [
         {
           "name": "BJAK",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "slug": "rails",
-      "name": "Ruby on Rails",
-      "category": "백엔드",
-      "blurb": "빠른 MVP 개발로 유명한 Ruby 웹 프레임워크입니다.",
-      "count": 1,
-      "share": 0,
-      "new7d": 1,
-      "delta7d": 1,
-      "deltaPct": null,
-      "companies": [
-        {
-          "name": "당근",
           "count": 1
         }
       ]
@@ -1926,10 +1909,10 @@
       ]
     },
     {
-      "slug": "computer-vision",
-      "name": "컴퓨터 비전",
-      "category": "데이터/AI",
-      "blurb": "이미지·영상 인식 기반 제품에서 요구되는 역량입니다.",
+      "slug": "elasticsearch",
+      "name": "Elasticsearch",
+      "category": "인프라",
+      "blurb": "검색·로그 분석에 널리 쓰이는 분산 검색 엔진입니다.",
       "count": 1,
       "share": 0,
       "new7d": 0,
@@ -1937,7 +1920,7 @@
       "deltaPct": null,
       "companies": [
         {
-          "name": "쿠팡",
+          "name": "Gauss Labs",
           "count": 1
         }
       ]
@@ -1966,14 +1949,7 @@
       "name": "소프트웨어 엔지니어링",
       "blurb": "직무가 세분화되지 않은 소프트웨어 개발 직군입니다.",
       "count": 50,
-      "share": 19
-    },
-    {
-      "slug": "backend",
-      "name": "백엔드",
-      "blurb": "서버·API·데이터베이스를 설계하고 운영하는 직군입니다.",
-      "count": 38,
-      "share": 15
+      "share": 20
     },
     {
       "slug": "ml",
@@ -1983,10 +1959,17 @@
       "share": 14
     },
     {
+      "slug": "backend",
+      "name": "백엔드",
+      "blurb": "서버·API·데이터베이스를 설계하고 운영하는 직군입니다.",
+      "count": 35,
+      "share": 14
+    },
+    {
       "slug": "solutions",
       "name": "솔루션 엔지니어링",
       "blurb": "고객 환경에 기술을 적용하고 문제를 해결하는 엔지니어링 직군입니다.",
-      "count": 34,
+      "count": 32,
       "share": 13
     },
     {
@@ -1994,14 +1977,14 @@
       "name": "보안",
       "blurb": "애플리케이션과 인프라 보안을 담당합니다.",
       "count": 29,
-      "share": 11
+      "share": 12
     },
     {
       "slug": "mobile",
       "name": "모바일",
       "blurb": "iOS·Android 앱을 개발하는 직군입니다.",
       "count": 24,
-      "share": 9
+      "share": 10
     },
     {
       "slug": "devops",
@@ -2018,11 +2001,11 @@
       "share": 4
     },
     {
-      "slug": "frontend",
-      "name": "프론트엔드",
-      "blurb": "사용자 화면과 웹 인터랙션을 구현하는 직군입니다.",
-      "count": 7,
-      "share": 3
+      "slug": "qa",
+      "name": "QA",
+      "blurb": "테스트 자동화와 품질 보증을 담당합니다.",
+      "count": 5,
+      "share": 2
     },
     {
       "slug": "fullstack",
@@ -2032,10 +2015,10 @@
       "share": 2
     },
     {
-      "slug": "qa",
-      "name": "QA",
-      "blurb": "테스트 자동화와 품질 보증을 담당합니다.",
-      "count": 4,
+      "slug": "frontend",
+      "name": "프론트엔드",
+      "blurb": "사용자 화면과 웹 인터랙션을 구현하는 직군입니다.",
+      "count": 5,
       "share": 2
     },
     {
@@ -2050,26 +2033,26 @@
     {
       "key": "unknown",
       "name": "직함 미표기",
-      "count": 112,
+      "count": 111,
       "share": 44
     },
     {
       "key": "senior",
       "name": "시니어",
-      "count": 97,
-      "share": 38
+      "count": 93,
+      "share": 37
     },
     {
       "key": "lead",
       "name": "리드/임원",
-      "count": 31,
+      "count": 29,
       "share": 12
     },
     {
       "key": "intern",
       "name": "인턴",
-      "count": 13,
-      "share": 5
+      "count": 14,
+      "share": 6
     },
     {
       "key": "mid",
@@ -2088,20 +2071,20 @@
     {
       "key": "onsite",
       "name": "현장",
-      "count": 160,
-      "share": 62
+      "count": 151,
+      "share": 60
     },
     {
       "key": "remote",
       "name": "원격",
-      "count": 53,
-      "share": 21
+      "count": 54,
+      "share": 22
     },
     {
       "key": "hybrid",
       "name": "하이브리드",
-      "count": 44,
-      "share": 17
+      "count": 46,
+      "share": 18
     }
   ],
   "companies": [
@@ -2112,26 +2095,26 @@
       "homepage": "https://www.coupang.com",
       "careers": "https://www.coupang.jobs",
       "description": "이커머스와 물류를 아우르는 국내 대표 플랫폼",
-      "jobCount": 81,
+      "jobCount": 75,
       "aiCount": 10,
-      "remoteCount": 5,
-      "posted7d": 4,
-      "latestPostedAt": "2026-11-24",
+      "remoteCount": 7,
+      "posted7d": 3,
+      "latestPostedAt": "2026-11-25",
       "topStacks": [
         {
           "slug": "python",
           "name": "Python",
-          "count": 38
+          "count": 39
         },
         {
           "slug": "aws",
           "name": "AWS",
-          "count": 31
+          "count": 29
         },
         {
           "slug": "java",
           "name": "Java",
-          "count": 28
+          "count": 24
         },
         {
           "slug": "kubernetes",
@@ -2153,7 +2136,7 @@
         {
           "slug": "backend",
           "name": "백엔드",
-          "count": 19
+          "count": 16
         },
         {
           "slug": "mobile",
@@ -2172,8 +2155,8 @@
       "jobCount": 38,
       "aiCount": 18,
       "remoteCount": 38,
-      "posted7d": 34,
-      "latestPostedAt": "2026-11-24",
+      "posted7d": 38,
+      "latestPostedAt": "2026-11-25",
       "topStacks": [
         {
           "slug": "kotlin",
@@ -2229,7 +2212,7 @@
       "jobCount": 30,
       "aiCount": 4,
       "remoteCount": 1,
-      "posted7d": 1,
+      "posted7d": 0,
       "latestPostedAt": "2026-11-19",
       "topStacks": [
         {
@@ -2283,8 +2266,8 @@
       "homepage": "https://www.krafton.com",
       "careers": "https://www.krafton.com/careers",
       "description": "배틀그라운드로 대표되는 게임·AI 기업",
-      "jobCount": 24,
-      "aiCount": 15,
+      "jobCount": 23,
+      "aiCount": 14,
       "remoteCount": 1,
       "posted7d": 1,
       "latestPostedAt": "2026-11-24",
@@ -2292,12 +2275,12 @@
         {
           "slug": "llm",
           "name": "LLM",
-          "count": 19
+          "count": 18
         },
         {
           "slug": "agent",
           "name": "AI 에이전트",
-          "count": 10
+          "count": 9
         },
         {
           "slug": "python",
@@ -2391,74 +2374,22 @@
       ]
     },
     {
-      "slug": "databricks",
-      "name": "Databricks",
-      "type": "global",
-      "homepage": "https://www.databricks.com",
-      "careers": "https://www.databricks.com/company/careers",
-      "description": "레이크하우스 기반 데이터·AI 플랫폼",
-      "jobCount": 9,
-      "aiCount": 2,
-      "remoteCount": 3,
-      "posted7d": 0,
-      "latestPostedAt": "2026-11-02",
-      "topStacks": [
-        {
-          "slug": "spark",
-          "name": "Apache Spark",
-          "count": 5
-        },
-        {
-          "slug": "aws",
-          "name": "AWS",
-          "count": 4
-        },
-        {
-          "slug": "gcp",
-          "name": "GCP",
-          "count": 4
-        },
-        {
-          "slug": "azure",
-          "name": "Azure",
-          "count": 4
-        },
-        {
-          "slug": "python",
-          "name": "Python",
-          "count": 3
-        }
-      ],
-      "roles": [
-        {
-          "slug": "solutions",
-          "name": "솔루션 엔지니어링",
-          "count": 8
-        },
-        {
-          "slug": "engineering",
-          "name": "소프트웨어 엔지니어링",
-          "count": 1
-        }
-      ]
-    },
-    {
       "slug": "moloco",
       "name": "몰로코",
       "type": "korean",
       "homepage": "https://www.moloco.com",
       "careers": "https://www.moloco.com/careers",
       "description": "머신러닝 기반 광고 플랫폼",
-      "jobCount": 9,
+      "jobCount": 10,
       "aiCount": 4,
       "remoteCount": 0,
-      "posted7d": 0,
-      "latestPostedAt": "2026-10-26",
+      "posted7d": 1,
+      "latestPostedAt": "2026-11-25",
       "topStacks": [
         {
           "slug": "python",
           "name": "Python",
-          "count": 7
+          "count": 8
         },
         {
           "slug": "java",
@@ -2495,6 +2426,58 @@
         {
           "slug": "qa",
           "name": "QA",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "slug": "databricks",
+      "name": "Databricks",
+      "type": "global",
+      "homepage": "https://www.databricks.com",
+      "careers": "https://www.databricks.com/company/careers",
+      "description": "레이크하우스 기반 데이터·AI 플랫폼",
+      "jobCount": 8,
+      "aiCount": 2,
+      "remoteCount": 3,
+      "posted7d": 0,
+      "latestPostedAt": "2026-11-02",
+      "topStacks": [
+        {
+          "slug": "spark",
+          "name": "Apache Spark",
+          "count": 5
+        },
+        {
+          "slug": "aws",
+          "name": "AWS",
+          "count": 4
+        },
+        {
+          "slug": "gcp",
+          "name": "GCP",
+          "count": 4
+        },
+        {
+          "slug": "azure",
+          "name": "Azure",
+          "count": 4
+        },
+        {
+          "slug": "python",
+          "name": "Python",
+          "count": 3
+        }
+      ],
+      "roles": [
+        {
+          "slug": "solutions",
+          "name": "솔루션 엔지니어링",
+          "count": 7
+        },
+        {
+          "slug": "engineering",
+          "name": "소프트웨어 엔지니어링",
           "count": 1
         }
       ]
@@ -2979,6 +2962,53 @@
       ]
     },
     {
+      "slug": "gitlab",
+      "name": "GitLab",
+      "type": "global",
+      "homepage": "https://about.gitlab.com",
+      "careers": "https://about.gitlab.com/jobs",
+      "description": "DevOps 수명주기를 다루는 오픈소스 플랫폼",
+      "jobCount": 2,
+      "aiCount": 0,
+      "remoteCount": 2,
+      "posted7d": 0,
+      "latestPostedAt": "2026-09-08",
+      "topStacks": [
+        {
+          "slug": "ruby",
+          "name": "Ruby",
+          "count": 1
+        },
+        {
+          "slug": "rails",
+          "name": "Ruby on Rails",
+          "count": 1
+        },
+        {
+          "slug": "kubernetes",
+          "name": "Kubernetes",
+          "count": 1
+        },
+        {
+          "slug": "linux",
+          "name": "Linux",
+          "count": 1
+        }
+      ],
+      "roles": [
+        {
+          "slug": "solutions",
+          "name": "솔루션 엔지니어링",
+          "count": 1
+        },
+        {
+          "slug": "engineering",
+          "name": "소프트웨어 엔지니어링",
+          "count": 1
+        }
+      ]
+    },
+    {
       "slug": "snowflake",
       "name": "Snowflake",
       "type": "global",
@@ -3146,27 +3176,6 @@
       ]
     },
     {
-      "slug": "gitlab",
-      "name": "GitLab",
-      "type": "global",
-      "homepage": "https://about.gitlab.com",
-      "careers": "https://about.gitlab.com/jobs",
-      "description": "DevOps 수명주기를 다루는 오픈소스 플랫폼",
-      "jobCount": 1,
-      "aiCount": 0,
-      "remoteCount": 1,
-      "posted7d": 0,
-      "latestPostedAt": "2026-09-08",
-      "topStacks": [],
-      "roles": [
-        {
-          "slug": "solutions",
-          "name": "솔루션 엔지니어링",
-          "count": 1
-        }
-      ]
-    },
-    {
       "slug": "musinsa",
       "name": "무신사",
       "type": "korean",
@@ -3176,7 +3185,7 @@
       "jobCount": 1,
       "aiCount": 0,
       "remoteCount": 1,
-      "posted7d": 1,
+      "posted7d": 0,
       "latestPostedAt": "2026-11-19",
       "topStacks": [],
       "roles": [
@@ -3190,18 +3199,13 @@
   ],
   "dailyNew": [
     {
-      "date": "2026-10-27",
-      "jobs": 3,
-      "ai": 1
-    },
-    {
       "date": "2026-10-28",
       "jobs": 0,
       "ai": 0
     },
     {
       "date": "2026-10-29",
-      "jobs": 2,
+      "jobs": 1,
       "ai": 0
     },
     {
@@ -3256,7 +3260,7 @@
     },
     {
       "date": "2026-11-09",
-      "jobs": 2,
+      "jobs": 3,
       "ai": 1
     },
     {
@@ -3301,8 +3305,8 @@
     },
     {
       "date": "2026-11-18",
-      "jobs": 5,
-      "ai": 4
+      "jobs": 1,
+      "ai": 0
     },
     {
       "date": "2026-11-19",
@@ -3336,6 +3340,11 @@
     },
     {
       "date": "2026-11-25",
+      "jobs": 6,
+      "ai": 4
+    },
+    {
+      "date": "2026-11-26",
       "jobs": 0,
       "ai": 0
     }
@@ -3386,23 +3395,23 @@
       "start": "2026-10-12",
       "end": "2026-10-18",
       "partial": false,
-      "jobs": 2,
+      "jobs": 3,
       "aiShare": 100,
-      "remoteShare": 100,
+      "remoteShare": 67,
       "topStacks": [
         {
           "slug": "python",
           "name": "Python",
+          "count": 3
+        },
+        {
+          "slug": "llm",
+          "name": "LLM",
           "count": 2
         },
         {
           "slug": "mlops",
           "name": "MLOps",
-          "count": 1
-        },
-        {
-          "slug": "typescript",
-          "name": "TypeScript",
           "count": 1
         }
       ],
@@ -3410,7 +3419,7 @@
         {
           "slug": "ml",
           "name": "ML / AI",
-          "count": 1
+          "count": 2
         },
         {
           "slug": "solutions",
@@ -3464,9 +3473,9 @@
       "start": "2026-10-26",
       "end": "2026-11-01",
       "partial": false,
-      "jobs": 8,
-      "aiShare": 25,
-      "remoteShare": 12,
+      "jobs": 7,
+      "aiShare": 29,
+      "remoteShare": 14,
       "topStacks": [
         {
           "slug": "python",
@@ -3474,26 +3483,26 @@
           "count": 5
         },
         {
-          "slug": "llm",
-          "name": "LLM",
-          "count": 3
+          "slug": "java",
+          "name": "Java",
+          "count": 2
         },
         {
-          "slug": "kubernetes",
-          "name": "Kubernetes",
+          "slug": "llm",
+          "name": "LLM",
           "count": 2
         }
       ],
       "topRoles": [
         {
-          "slug": "security",
-          "name": "보안",
-          "count": 2
-        },
-        {
           "slug": "ml",
           "name": "ML / AI",
           "count": 2
+        },
+        {
+          "slug": "mobile",
+          "name": "모바일",
+          "count": 1
         }
       ]
     },
@@ -3542,9 +3551,9 @@
       "start": "2026-11-09",
       "end": "2026-11-15",
       "partial": false,
-      "jobs": 15,
-      "aiShare": 20,
-      "remoteShare": 20,
+      "jobs": 16,
+      "aiShare": 19,
+      "remoteShare": 19,
       "topStacks": [
         {
           "slug": "python",
@@ -3552,13 +3561,13 @@
           "count": 7
         },
         {
-          "slug": "agent",
-          "name": "AI 에이전트",
-          "count": 5
+          "slug": "java",
+          "name": "Java",
+          "count": 6
         },
         {
-          "slug": "kubernetes",
-          "name": "Kubernetes",
+          "slug": "agent",
+          "name": "AI 에이전트",
           "count": 5
         }
       ],
@@ -3566,7 +3575,7 @@
         {
           "slug": "backend",
           "name": "백엔드",
-          "count": 3
+          "count": 4
         },
         {
           "slug": "ml",
@@ -3581,9 +3590,9 @@
       "start": "2026-11-16",
       "end": "2026-11-22",
       "partial": false,
-      "jobs": 19,
-      "aiShare": 26,
-      "remoteShare": 37,
+      "jobs": 15,
+      "aiShare": 7,
+      "remoteShare": 20,
       "topStacks": [
         {
           "slug": "kotlin",
@@ -3608,9 +3617,9 @@
           "count": 7
         },
         {
-          "slug": "engineering",
-          "name": "소프트웨어 엔지니어링",
-          "count": 5
+          "slug": "mobile",
+          "name": "모바일",
+          "count": 3
         }
       ]
     },
@@ -3620,9 +3629,9 @@
       "start": "2026-11-23",
       "end": "2026-11-29",
       "partial": true,
-      "jobs": 38,
-      "aiShare": 39,
-      "remoteShare": 92,
+      "jobs": 44,
+      "aiShare": 43,
+      "remoteShare": 91,
       "topStacks": [
         {
           "slug": "kotlin",
@@ -3630,21 +3639,21 @@
           "count": 8
         },
         {
-          "slug": "llm",
-          "name": "LLM",
-          "count": 4
-        },
-        {
           "slug": "python",
           "name": "Python",
-          "count": 4
+          "count": 6
+        },
+        {
+          "slug": "llm",
+          "name": "LLM",
+          "count": 5
         }
       ],
       "topRoles": [
         {
           "slug": "engineering",
           "name": "소프트웨어 엔지니어링",
-          "count": 19
+          "count": 23
         },
         {
           "slug": "mobile",
@@ -3655,6 +3664,137 @@
     }
   ],
   "recentJobs": [
+    {
+      "id": "greenhouse:coupang:8416015",
+      "source": "greenhouse",
+      "company": "쿠팡",
+      "companySlug": "coupang",
+      "companyType": "korean",
+      "title": "Sr. Staff Security Engineer (IAM)",
+      "location": "Seoul, South Korea",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8416015",
+      "postedAt": "2026-11-25",
+      "employmentType": "",
+      "role": "security",
+      "roleName": "보안",
+      "isTech": true,
+      "seniority": "senior",
+      "remote": "hybrid",
+      "stacks": [
+        "python",
+        "java",
+        "grpc",
+        "llm",
+        "rag",
+        "agent",
+        "aws",
+        "gcp",
+        "kubernetes",
+        "terraform"
+      ],
+      "isAi": false
+    },
+    {
+      "id": "greenhouse:moloco:8215108003",
+      "source": "greenhouse",
+      "company": "몰로코",
+      "companySlug": "moloco",
+      "companyType": "korean",
+      "title": "QA Engineer Intern (3-month Internship)",
+      "location": "Seoul, Korea",
+      "url": "https://job-boards.greenhouse.io/moloco/jobs/8215108003",
+      "postedAt": "2026-11-25",
+      "employmentType": "",
+      "role": "qa",
+      "roleName": "QA",
+      "isTech": true,
+      "seniority": "intern",
+      "remote": "onsite",
+      "stacks": [
+        "python",
+        "typescript",
+        "javascript",
+        "anthropic",
+        "agent"
+      ],
+      "isAi": false
+    },
+    {
+      "id": "ashby:bjak:4e507525-49fc-47b6-bd1f-2701104c9844",
+      "source": "ashby",
+      "company": "BJAK",
+      "companySlug": "bjak",
+      "companyType": "global",
+      "title": "Product Engineer - AI Finance",
+      "location": "Seoul, Korea, Seoul South Korea Seoul",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/4e507525-49fc-47b6-bd1f-2701104c9844",
+      "postedAt": "2026-11-25",
+      "employmentType": "FullTime",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "isTech": true,
+      "seniority": "unknown",
+      "remote": "remote",
+      "stacks": [],
+      "isAi": true
+    },
+    {
+      "id": "ashby:bjak:c71335ab-7811-4d16-85db-087b87301fc1",
+      "source": "ashby",
+      "company": "BJAK",
+      "companySlug": "bjak",
+      "companyType": "global",
+      "title": "Product Engineer - AI Investing",
+      "location": "Seoul, Korea, Seoul South Korea Seoul",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/c71335ab-7811-4d16-85db-087b87301fc1",
+      "postedAt": "2026-11-25",
+      "employmentType": "FullTime",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "isTech": true,
+      "seniority": "unknown",
+      "remote": "remote",
+      "stacks": [],
+      "isAi": true
+    },
+    {
+      "id": "ashby:bjak:a3d65199-8c59-4577-b28d-4fad95cfeefa",
+      "source": "ashby",
+      "company": "BJAK",
+      "companySlug": "bjak",
+      "companyType": "global",
+      "title": "Product Engineer - AI Neobank",
+      "location": "Seoul, Korea, Seoul South Korea Seoul",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/a3d65199-8c59-4577-b28d-4fad95cfeefa",
+      "postedAt": "2026-11-25",
+      "employmentType": "FullTime",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "isTech": true,
+      "seniority": "unknown",
+      "remote": "remote",
+      "stacks": [],
+      "isAi": true
+    },
+    {
+      "id": "ashby:bjak:cf5189b0-9a76-4610-bb39-63932af79415",
+      "source": "ashby",
+      "company": "BJAK",
+      "companySlug": "bjak",
+      "companyType": "global",
+      "title": "Product Engineer - AI Stockbroking",
+      "location": "Seoul, Korea, Seoul South Korea Seoul",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/cf5189b0-9a76-4610-bb39-63932af79415",
+      "postedAt": "2026-11-25",
+      "employmentType": "FullTime",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "isTech": true,
+      "seniority": "unknown",
+      "remote": "remote",
+      "stacks": [],
+      "isAi": true
+    },
     {
       "id": "greenhouse:krafton:8950930002",
       "source": "greenhouse",
@@ -3776,120 +3916,6 @@
       "roleName": "소프트웨어 엔지니어링",
       "isTech": true,
       "seniority": "senior",
-      "remote": "remote",
-      "stacks": [],
-      "isAi": false
-    },
-    {
-      "id": "ashby:bjak:2fa8d960-b181-4cb5-99fb-57571f7f6ab8",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Engineering Manager - Stock Trading App",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/2fa8d960-b181-4cb5-99fb-57571f7f6ab8",
-      "postedAt": "2026-11-24",
-      "employmentType": "FullTime",
-      "role": "engineering",
-      "roleName": "소프트웨어 엔지니어링",
-      "isTech": true,
-      "seniority": "lead",
-      "remote": "remote",
-      "stacks": [],
-      "isAi": false
-    },
-    {
-      "id": "ashby:bjak:b462ae77-3d51-42b9-adc7-6e13a4d664fc",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Engineering Manager - Wealth Management App",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/b462ae77-3d51-42b9-adc7-6e13a4d664fc",
-      "postedAt": "2026-11-24",
-      "employmentType": "FullTime",
-      "role": "engineering",
-      "roleName": "소프트웨어 엔지니어링",
-      "isTech": true,
-      "seniority": "lead",
-      "remote": "remote",
-      "stacks": [],
-      "isAi": false
-    },
-    {
-      "id": "ashby:bjak:b641791a-67fa-44a2-8b0b-eb2451bdb144",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Lead Engineer - AI-Native Email App",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/b641791a-67fa-44a2-8b0b-eb2451bdb144",
-      "postedAt": "2026-11-24",
-      "employmentType": "FullTime",
-      "role": "engineering",
-      "roleName": "소프트웨어 엔지니어링",
-      "isTech": true,
-      "seniority": "lead",
-      "remote": "remote",
-      "stacks": [],
-      "isAi": true
-    },
-    {
-      "id": "ashby:bjak:14718737-f61a-4766-9b6a-60a8a34a9891",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Engineering Manager - Travel FX App",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/14718737-f61a-4766-9b6a-60a8a34a9891",
-      "postedAt": "2026-11-24",
-      "employmentType": "FullTime",
-      "role": "engineering",
-      "roleName": "소프트웨어 엔지니어링",
-      "isTech": true,
-      "seniority": "lead",
-      "remote": "remote",
-      "stacks": [],
-      "isAi": false
-    },
-    {
-      "id": "ashby:bjak:d3c96ab4-2f95-4645-a9b2-fa5924133ce6",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Lead Engineer - Stock Trading App",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/d3c96ab4-2f95-4645-a9b2-fa5924133ce6",
-      "postedAt": "2026-11-24",
-      "employmentType": "FullTime",
-      "role": "engineering",
-      "roleName": "소프트웨어 엔지니어링",
-      "isTech": true,
-      "seniority": "lead",
-      "remote": "remote",
-      "stacks": [],
-      "isAi": false
-    },
-    {
-      "id": "ashby:bjak:28de3bff-1fa5-4525-99eb-cf288be6f98c",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Lead Engineer - Wealth Management App",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/28de3bff-1fa5-4525-99eb-cf288be6f98c",
-      "postedAt": "2026-11-24",
-      "employmentType": "FullTime",
-      "role": "engineering",
-      "roleName": "소프트웨어 엔지니어링",
-      "isTech": true,
-      "seniority": "lead",
       "remote": "remote",
       "stacks": [],
       "isAi": false

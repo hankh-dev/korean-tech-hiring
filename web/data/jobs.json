@@ -1,8 +1,127 @@
 {
-  "generatedAt": "2026-11-25T03:57:30+00:00",
-  "allKoreaJobs": 743,
-  "techJobs": 257,
+  "generatedAt": "2026-11-26T03:23:28+00:00",
+  "allKoreaJobs": 742,
+  "techJobs": 251,
   "jobs": [
+    {
+      "id": "greenhouse:coupang:8416015",
+      "company": "쿠팡",
+      "companySlug": "coupang",
+      "companyType": "korean",
+      "title": "Sr. Staff Security Engineer (IAM)",
+      "location": "Seoul, South Korea",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8416015",
+      "postedAt": "2026-11-25",
+      "employmentType": "",
+      "role": "security",
+      "roleName": "보안",
+      "seniority": "senior",
+      "remote": "hybrid",
+      "stacks": [
+        "python",
+        "java",
+        "grpc",
+        "llm",
+        "rag",
+        "agent",
+        "aws",
+        "gcp",
+        "kubernetes",
+        "terraform"
+      ],
+      "isAi": false
+    },
+    {
+      "id": "greenhouse:moloco:8215108003",
+      "company": "몰로코",
+      "companySlug": "moloco",
+      "companyType": "korean",
+      "title": "QA Engineer Intern (3-month Internship)",
+      "location": "Seoul, Korea",
+      "url": "https://job-boards.greenhouse.io/moloco/jobs/8215108003",
+      "postedAt": "2026-11-25",
+      "employmentType": "",
+      "role": "qa",
+      "roleName": "QA",
+      "seniority": "intern",
+      "remote": "onsite",
+      "stacks": [
+        "python",
+        "typescript",
+        "javascript",
+        "anthropic",
+        "agent"
+      ],
+      "isAi": false
+    },
+    {
+      "id": "ashby:bjak:4e507525-49fc-47b6-bd1f-2701104c9844",
+      "company": "BJAK",
+      "companySlug": "bjak",
+      "companyType": "global",
+      "title": "Product Engineer - AI Finance",
+      "location": "Seoul, Korea, Seoul South Korea Seoul",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/4e507525-49fc-47b6-bd1f-2701104c9844",
+      "postedAt": "2026-11-25",
+      "employmentType": "FullTime",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "seniority": "unknown",
+      "remote": "remote",
+      "stacks": [],
+      "isAi": true
+    },
+    {
+      "id": "ashby:bjak:c71335ab-7811-4d16-85db-087b87301fc1",
+      "company": "BJAK",
+      "companySlug": "bjak",
+      "companyType": "global",
+      "title": "Product Engineer - AI Investing",
+      "location": "Seoul, Korea, Seoul South Korea Seoul",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/c71335ab-7811-4d16-85db-087b87301fc1",
+      "postedAt": "2026-11-25",
+      "employmentType": "FullTime",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "seniority": "unknown",
+      "remote": "remote",
+      "stacks": [],
+      "isAi": true
+    },
+    {
+      "id": "ashby:bjak:a3d65199-8c59-4577-b28d-4fad95cfeefa",
+      "company": "BJAK",
+      "companySlug": "bjak",
+      "companyType": "global",
+      "title": "Product Engineer - AI Neobank",
+      "location": "Seoul, Korea, Seoul South Korea Seoul",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/a3d65199-8c59-4577-b28d-4fad95cfeefa",
+      "postedAt": "2026-11-25",
+      "employmentType": "FullTime",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "seniority": "unknown",
+      "remote": "remote",
+      "stacks": [],
+      "isAi": true
+    },
+    {
+      "id": "ashby:bjak:cf5189b0-9a76-4610-bb39-63932af79415",
+      "company": "BJAK",
+      "companySlug": "bjak",
+      "companyType": "global",
+      "title": "Product Engineer - AI Stockbroking",
+      "location": "Seoul, Korea, Seoul South Korea Seoul",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/cf5189b0-9a76-4610-bb39-63932af79415",
+      "postedAt": "2026-11-25",
+      "employmentType": "FullTime",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "seniority": "unknown",
+      "remote": "remote",
+      "stacks": [],
+      "isAi": true
+    },
     {
       "id": "greenhouse:krafton:8950930002",
       "company": "크래프톤",
@@ -865,74 +984,6 @@
       "isAi": false
     },
     {
-      "id": "ashby:bjak:4e507525-49fc-47b6-bd1f-2701104c9844",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Product Engineer - AI Finance",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/4e507525-49fc-47b6-bd1f-2701104c9844",
-      "postedAt": "2026-11-18",
-      "employmentType": "FullTime",
-      "role": "engineering",
-      "roleName": "소프트웨어 엔지니어링",
-      "seniority": "unknown",
-      "remote": "remote",
-      "stacks": [],
-      "isAi": true
-    },
-    {
-      "id": "ashby:bjak:c71335ab-7811-4d16-85db-087b87301fc1",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Product Engineer - AI Investing",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/c71335ab-7811-4d16-85db-087b87301fc1",
-      "postedAt": "2026-11-18",
-      "employmentType": "FullTime",
-      "role": "engineering",
-      "roleName": "소프트웨어 엔지니어링",
-      "seniority": "unknown",
-      "remote": "remote",
-      "stacks": [],
-      "isAi": true
-    },
-    {
-      "id": "ashby:bjak:a3d65199-8c59-4577-b28d-4fad95cfeefa",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Product Engineer - AI Neobank",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/a3d65199-8c59-4577-b28d-4fad95cfeefa",
-      "postedAt": "2026-11-18",
-      "employmentType": "FullTime",
-      "role": "engineering",
-      "roleName": "소프트웨어 엔지니어링",
-      "seniority": "unknown",
-      "remote": "remote",
-      "stacks": [],
-      "isAi": true
-    },
-    {
-      "id": "ashby:bjak:cf5189b0-9a76-4610-bb39-63932af79415",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Product Engineer - AI Stockbroking",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/cf5189b0-9a76-4610-bb39-63932af79415",
-      "postedAt": "2026-11-18",
-      "employmentType": "FullTime",
-      "role": "engineering",
-      "roleName": "소프트웨어 엔지니어링",
-      "seniority": "unknown",
-      "remote": "remote",
-      "stacks": [],
-      "isAi": true
-    },
-    {
       "id": "greenhouse:coupang:8395151",
       "company": "쿠팡",
       "companySlug": "coupang",
@@ -1440,6 +1491,26 @@
       "isAi": false
     },
     {
+      "id": "greenhouse:coupang:8345259",
+      "company": "쿠팡",
+      "companySlug": "coupang",
+      "companyType": "korean",
+      "title": "Staff Back-end Engineer (Rocket Pay)",
+      "location": "Seoul, South Korea",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8345259",
+      "postedAt": "2026-11-09",
+      "employmentType": "",
+      "role": "backend",
+      "roleName": "백엔드",
+      "seniority": "senior",
+      "remote": "onsite",
+      "stacks": [
+        "java",
+        "kotlin"
+      ],
+      "isAi": false
+    },
+    {
       "id": "greenhouse:anthropic:5476577008",
       "company": "Anthropic",
       "companySlug": "anthropic",
@@ -1854,26 +1925,6 @@
       "isAi": false
     },
     {
-      "id": "greenhouse:coupang:8333323",
-      "company": "쿠팡",
-      "companySlug": "coupang",
-      "companyType": "korean",
-      "title": "Staff, Platform Security Architect (Cloud, Infra and Platforms Security Architecture)",
-      "location": "Seoul, South Korea",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8333323",
-      "postedAt": "2026-10-29",
-      "employmentType": "",
-      "role": "security",
-      "roleName": "보안",
-      "seniority": "senior",
-      "remote": "onsite",
-      "stacks": [
-        "llm",
-        "kubernetes"
-      ],
-      "isAi": false
-    },
-    {
       "id": "greenhouse:coupang:8130045",
       "company": "쿠팡",
       "companySlug": "coupang",
@@ -2201,6 +2252,26 @@
       "isAi": true
     },
     {
+      "id": "greenhouse:coupang:8239021",
+      "company": "쿠팡",
+      "companySlug": "coupang",
+      "companyType": "korean",
+      "title": "Senior Staff Data Scientist",
+      "location": "Seoul, South Korea",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8239021",
+      "postedAt": "2026-10-12",
+      "employmentType": "",
+      "role": "ml",
+      "roleName": "ML / AI",
+      "seniority": "senior",
+      "remote": "onsite",
+      "stacks": [
+        "python",
+        "llm"
+      ],
+      "isAi": true
+    },
+    {
       "id": "greenhouse:krafton:8819357002",
       "company": "크래프톤",
       "companySlug": "krafton",
@@ -2430,26 +2501,6 @@
       "title": "Senior Staff Back-end Engineer (Rocket Pay)",
       "location": "Seoul, South Korea",
       "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8155846",
-      "postedAt": "2026-09-28",
-      "employmentType": "",
-      "role": "backend",
-      "roleName": "백엔드",
-      "seniority": "senior",
-      "remote": "onsite",
-      "stacks": [
-        "java",
-        "kotlin"
-      ],
-      "isAi": false
-    },
-    {
-      "id": "greenhouse:coupang:8236155",
-      "company": "쿠팡",
-      "companySlug": "coupang",
-      "companyType": "korean",
-      "title": "Staff Back-end Engineer (Rocket Pay)",
-      "location": "Seoul, South Korea",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8236155",
       "postedAt": "2026-09-28",
       "employmentType": "",
       "role": "backend",
@@ -2981,25 +3032,6 @@
       "isAi": false
     },
     {
-      "id": "greenhouse:databricks:8785065002",
-      "company": "Databricks",
-      "companySlug": "databricks",
-      "companyType": "global",
-      "title": "Field Engineering Manager, Specialist Solutions Architects",
-      "location": "Seoul, South Korea",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785065002",
-      "postedAt": "2026-09-10",
-      "employmentType": "",
-      "role": "solutions",
-      "roleName": "솔루션 엔지니어링",
-      "seniority": "lead",
-      "remote": "onsite",
-      "stacks": [
-        "mlops"
-      ],
-      "isAi": false
-    },
-    {
       "id": "greenhouse:databricks:8785057002",
       "company": "Databricks",
       "companySlug": "databricks",
@@ -3408,6 +3440,28 @@
       "isAi": false
     },
     {
+      "id": "greenhouse:gitlab:8692880002",
+      "company": "GitLab",
+      "companySlug": "gitlab",
+      "companyType": "global",
+      "title": "Senior Support Engineer",
+      "location": "Remote, South Korea",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8692880002",
+      "postedAt": "2026-08-18",
+      "employmentType": "",
+      "role": "engineering",
+      "roleName": "소프트웨어 엔지니어링",
+      "seniority": "senior",
+      "remote": "remote",
+      "stacks": [
+        "ruby",
+        "rails",
+        "kubernetes",
+        "linux"
+      ],
+      "isAi": false
+    },
+    {
       "id": "ashby:cohere:14a286d9-e415-4198-8d3b-8e0a7882a5b6",
       "company": "Cohere",
       "companySlug": "cohere",
@@ -3498,26 +3552,6 @@
         "cassandra"
       ],
       "isAi": false
-    },
-    {
-      "id": "greenhouse:coupang:8048155",
-      "company": "쿠팡",
-      "companySlug": "coupang",
-      "companyType": "korean",
-      "title": "Senior Staff Data Scientist",
-      "location": "Seoul, South Korea",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8048155",
-      "postedAt": "2026-08-11",
-      "employmentType": "",
-      "role": "ml",
-      "roleName": "ML / AI",
-      "seniority": "senior",
-      "remote": "onsite",
-      "stacks": [
-        "python",
-        "computer-vision"
-      ],
-      "isAi": true
     },
     {
       "id": "lever:palantir:d5f11334-3a73-4094-b7e0-d05b54e475b8",
@@ -4004,28 +4038,6 @@
       "isAi": true
     },
     {
-      "id": "greenhouse:krafton:8514459002",
-      "company": "크래프톤",
-      "companySlug": "krafton",
-      "companyType": "korean",
-      "title": "[AI Transformation Dept.] Sr. AI Transformation Specialist (FDE) (7년 이상)",
-      "location": "Seoul",
-      "url": "https://job-boards.greenhouse.io/krafton/jobs/8514459002",
-      "postedAt": "2026-06-26",
-      "employmentType": "Professional Contractor",
-      "role": "solutions",
-      "roleName": "솔루션 엔지니어링",
-      "seniority": "senior",
-      "remote": "onsite",
-      "stacks": [
-        "llm",
-        "rag",
-        "prompt",
-        "agent"
-      ],
-      "isAi": true
-    },
-    {
       "id": "greenhouse:databricks:8607718002",
       "company": "Databricks",
       "companySlug": "databricks",
@@ -4145,7 +4157,7 @@
       "company": "쿠팡",
       "companySlug": "coupang",
       "companyType": "korean",
-      "title": "Staff Security Engineer (Cloud, Infra and Platforms Security Architecture)",
+      "title": "Staff Security Engineer (Global Operation & Transportation)",
       "location": "Seoul, South Korea",
       "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7948448",
       "postedAt": "2026-05-21",
@@ -4153,13 +4165,11 @@
       "role": "security",
       "roleName": "보안",
       "seniority": "senior",
-      "remote": "onsite",
+      "remote": "hybrid",
       "stacks": [
-        "rust",
-        "llm",
         "aws",
-        "gcp",
-        "kubernetes"
+        "kubernetes",
+        "docker"
       ],
       "isAi": false
     },
@@ -4773,26 +4783,6 @@
       "isAi": false
     },
     {
-      "id": "greenhouse:coupang:7230867",
-      "company": "쿠팡",
-      "companySlug": "coupang",
-      "companyType": "korean",
-      "title": "Staff, Back-end Engineer (Global Operations Technology)",
-      "location": "Seoul, South Korea",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7230867",
-      "postedAt": "2025-09-05",
-      "employmentType": "",
-      "role": "backend",
-      "roleName": "백엔드",
-      "seniority": "senior",
-      "remote": "onsite",
-      "stacks": [
-        "java",
-        "redis"
-      ],
-      "isAi": false
-    },
-    {
       "id": "lever:veeva:1c2f89c2-e267-4ae7-bba9-c42f599bdfef",
       "company": "Veeva",
       "companySlug": "veeva",
@@ -4932,26 +4922,6 @@
       "isAi": true
     },
     {
-      "id": "greenhouse:coupang:6810667",
-      "company": "쿠팡",
-      "companySlug": "coupang",
-      "companyType": "korean",
-      "title": "Global Operations Technology(GOT) 개발자 집중 채용",
-      "location": "Seoul, South Korea",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=6810667",
-      "postedAt": "2025-04-16",
-      "employmentType": "",
-      "role": "engineering",
-      "roleName": "소프트웨어 엔지니어링",
-      "seniority": "unknown",
-      "remote": "onsite",
-      "stacks": [
-        "java",
-        "redis"
-      ],
-      "isAi": false
-    },
-    {
       "id": "lever:channel-corp:da3ad3ca-7df8-4583-8c1e-68113f5dc6d9",
       "company": "채널톡",
       "companySlug": "channel-corp",
@@ -4990,28 +4960,6 @@
         "kotlin",
         "llm",
         "agent"
-      ],
-      "isAi": false
-    },
-    {
-      "id": "greenhouse:coupang:6412588",
-      "company": "쿠팡",
-      "companySlug": "coupang",
-      "companyType": "korean",
-      "title": "Staff, Front-end Engineer (Global Operations Technology)",
-      "location": "South Korea",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=6412588",
-      "postedAt": "2024-11-19",
-      "employmentType": "",
-      "role": "frontend",
-      "roleName": "프론트엔드",
-      "seniority": "senior",
-      "remote": "onsite",
-      "stacks": [
-        "java",
-        "nodejs",
-        "aws",
-        "elasticsearch"
       ],
       "isAi": false
     },
@@ -5071,69 +5019,6 @@
       "stacks": [
         "graphql",
         "llm"
-      ],
-      "isAi": false
-    },
-    {
-      "id": "greenhouse:coupang:6137112",
-      "company": "쿠팡",
-      "companySlug": "coupang",
-      "companyType": "korean",
-      "title": "Manager, Back-end Engineering (Global Operations Technology)",
-      "location": "Seoul, South Korea",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=6137112",
-      "postedAt": "2024-07-26",
-      "employmentType": "",
-      "role": "backend",
-      "roleName": "백엔드",
-      "seniority": "lead",
-      "remote": "onsite",
-      "stacks": [
-        "java",
-        "spark",
-        "aws",
-        "kafka",
-        "cassandra"
-      ],
-      "isAi": false
-    },
-    {
-      "id": "greenhouse:coupang:5868936",
-      "company": "쿠팡",
-      "companySlug": "coupang",
-      "companyType": "korean",
-      "title": "Sr. Staff Front-end Engineer  (Global Operations Technology)",
-      "location": "South Korea",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=5868936",
-      "postedAt": "2024-04-02",
-      "employmentType": "",
-      "role": "frontend",
-      "roleName": "프론트엔드",
-      "seniority": "senior",
-      "remote": "onsite",
-      "stacks": [
-        "typescript",
-        "javascript"
-      ],
-      "isAi": false
-    },
-    {
-      "id": "greenhouse:coupang:5848138",
-      "company": "쿠팡",
-      "companySlug": "coupang",
-      "companyType": "korean",
-      "title": "Senior Staff, Back-end Engineer (Global Operations Technology)",
-      "location": "Seoul, South Korea",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=5848138",
-      "postedAt": "2024-03-25",
-      "employmentType": "",
-      "role": "backend",
-      "roleName": "백엔드",
-      "seniority": "senior",
-      "remote": "onsite",
-      "stacks": [
-        "java",
-        "aws"
       ],
       "isAi": false
     },
