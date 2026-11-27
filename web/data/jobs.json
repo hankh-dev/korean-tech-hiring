@@ -1,8 +1,46 @@
 {
-  "generatedAt": "2026-11-26T03:23:28+00:00",
-  "allKoreaJobs": 742,
-  "techJobs": 251,
+  "generatedAt": "2026-11-27T03:30:50+00:00",
+  "allKoreaJobs": 743,
+  "techJobs": 253,
   "jobs": [
+    {
+      "id": "greenhouse:coupang:8418706",
+      "company": "쿠팡",
+      "companySlug": "coupang",
+      "companyType": "korean",
+      "title": "Director, Global Security_Governance & Program Management",
+      "location": "Seoul, South Korea",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8418706",
+      "postedAt": "2026-11-26",
+      "employmentType": "",
+      "role": "security",
+      "roleName": "보안",
+      "seniority": "lead",
+      "remote": "onsite",
+      "stacks": [],
+      "isAi": false
+    },
+    {
+      "id": "greenhouse:coupang:8412883",
+      "company": "쿠팡",
+      "companySlug": "coupang",
+      "companyType": "korean",
+      "title": "Staff Security Architect (Global Operations & Transportation)",
+      "location": "Seoul, South Korea",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8412883",
+      "postedAt": "2026-11-26",
+      "employmentType": "",
+      "role": "security",
+      "roleName": "보안",
+      "seniority": "senior",
+      "remote": "hybrid",
+      "stacks": [
+        "aws",
+        "kubernetes",
+        "docker"
+      ],
+      "isAi": false
+    },
     {
       "id": "greenhouse:coupang:8416015",
       "company": "쿠팡",
@@ -3149,36 +3187,6 @@
       "isAi": false
     },
     {
-      "id": "greenhouse:daangn:7990084003",
-      "company": "당근",
-      "companySlug": "daangn",
-      "companyType": "korean",
-      "title": "Software Engineer - 테크코어 (AI Platform)",
-      "location": "SEOUL",
-      "url": "https://about.daangn.com?gh_jid=7990084003",
-      "postedAt": "2026-09-09",
-      "employmentType": "정규직",
-      "role": "engineering",
-      "roleName": "소프트웨어 엔지니어링",
-      "seniority": "unknown",
-      "remote": "onsite",
-      "stacks": [
-        "python",
-        "typescript",
-        "tailwind",
-        "fastapi",
-        "llm",
-        "openai",
-        "anthropic",
-        "vector-db",
-        "agent",
-        "kubernetes",
-        "dynamodb",
-        "bigquery"
-      ],
-      "isAi": true
-    },
-    {
       "id": "greenhouse:gitlab:8783485002",
       "company": "GitLab",
       "companySlug": "gitlab",
@@ -3479,6 +3487,32 @@
         "agent"
       ],
       "isAi": false
+    },
+    {
+      "id": "greenhouse:krafton:8682261002",
+      "company": "크래프톤",
+      "companySlug": "krafton",
+      "companyType": "korean",
+      "title": "[AI Research Div.] ML Infrastructure Engineer (5년 이하)",
+      "location": "Seoul",
+      "url": "https://job-boards.greenhouse.io/krafton/jobs/8682261002",
+      "postedAt": "2026-08-17",
+      "employmentType": "Regular",
+      "role": "ml",
+      "roleName": "ML / AI",
+      "seniority": "senior",
+      "remote": "onsite",
+      "stacks": [
+        "llm",
+        "aws",
+        "gcp",
+        "azure",
+        "kubernetes",
+        "linux",
+        "prometheus",
+        "grafana"
+      ],
+      "isAi": true
     },
     {
       "id": "greenhouse:coupang:8130040",

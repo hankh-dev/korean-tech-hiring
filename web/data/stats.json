@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-26T03:23:28+00:00",
+  "generatedAt": "2026-11-27T03:30:50+00:00",
   "totals": {
-    "allKoreaJobs": 742,
-    "techJobs": 251,
+    "allKoreaJobs": 743,
+    "techJobs": 253,
     "companies": 23,
     "aiJobs": 65,
     "remoteJobs": 54,
-    "hybridJobs": 46,
-    "new7d": 46,
-    "new30d": 94,
-    "stacks": 74
+    "hybridJobs": 47,
+    "new7d": 47,
+    "new30d": 96,
+    "stacks": 73
   },
   "stacks": [
     {
@@ -17,22 +17,22 @@
       "name": "Python",
       "category": "언어",
       "blurb": "데이터·백엔드·AI 전반에서 가장 폭넓게 쓰이는 언어입니다.",
-      "count": 97,
-      "share": 39,
+      "count": 96,
+      "share": 38,
       "new7d": 6,
-      "delta7d": 4,
-      "deltaPct": 200,
+      "delta7d": 5,
+      "deltaPct": 500,
       "companies": [
         {
           "name": "쿠팡",
           "count": 39
         },
         {
-          "name": "당근",
-          "count": 9
+          "name": "몰로코",
+          "count": 8
         },
         {
-          "name": "몰로코",
+          "name": "당근",
           "count": 8
         },
         {
@@ -53,12 +53,12 @@
       "count": 70,
       "share": 28,
       "new7d": 6,
-      "delta7d": 1,
-      "deltaPct": 20,
+      "delta7d": 2,
+      "deltaPct": 50,
       "companies": [
         {
           "name": "크래프톤",
-          "count": 18
+          "count": 19
         },
         {
           "name": "쿠팡",
@@ -66,7 +66,7 @@
         },
         {
           "name": "당근",
-          "count": 13
+          "count": 12
         },
         {
           "name": "채널톡",
@@ -83,26 +83,26 @@
       "name": "AWS",
       "category": "인프라",
       "blurb": "국내 채용 공고에서 가장 많이 언급되는 클라우드 플랫폼입니다.",
-      "count": 64,
-      "share": 25,
+      "count": 66,
+      "share": 26,
       "new7d": 3,
-      "delta7d": 0,
-      "deltaPct": 0,
+      "delta7d": -1,
+      "deltaPct": -25,
       "companies": [
         {
           "name": "쿠팡",
-          "count": 29
+          "count": 30
         },
         {
           "name": "당근",
           "count": 8
         },
         {
-          "name": "채널톡",
-          "count": 5
+          "name": "크래프톤",
+          "count": 6
         },
         {
-          "name": "크래프톤",
+          "name": "채널톡",
           "count": 5
         },
         {
@@ -116,26 +116,26 @@
       "name": "Kubernetes",
       "category": "인프라",
       "blurb": "컨테이너 오케스트레이션 표준으로, DevOps·플랫폼 직군의 필수 역량입니다.",
-      "count": 54,
+      "count": 55,
       "share": 22,
-      "new7d": 2,
-      "delta7d": -2,
-      "deltaPct": -50,
+      "new7d": 3,
+      "delta7d": 0,
+      "deltaPct": 0,
       "companies": [
         {
           "name": "쿠팡",
-          "count": 18
+          "count": 19
         },
         {
           "name": "당근",
-          "count": 11
-        },
-        {
-          "name": "채널톡",
-          "count": 7
+          "count": 10
         },
         {
           "name": "크래프톤",
+          "count": 8
+        },
+        {
+          "name": "채널톡",
           "count": 7
         },
         {
@@ -182,23 +182,23 @@
       "name": "GCP",
       "category": "인프라",
       "blurb": "데이터·ML 워크로드에서 자주 선택되는 클라우드입니다.",
-      "count": 44,
+      "count": 45,
       "share": 18,
-      "new7d": 2,
-      "delta7d": 1,
-      "deltaPct": 100,
+      "new7d": 1,
+      "delta7d": -1,
+      "deltaPct": -50,
       "companies": [
         {
           "name": "쿠팡",
           "count": 11
         },
         {
-          "name": "당근",
+          "name": "크래프톤",
           "count": 6
         },
         {
-          "name": "크래프톤",
-          "count": 5
+          "name": "당근",
+          "count": 6
         },
         {
           "name": "몰로코",
@@ -248,11 +248,11 @@
       "name": "AI 에이전트",
       "category": "데이터/AI",
       "blurb": "AI 에이전트 구축 경험이 채용 요건으로 등장하고 있습니다.",
-      "count": 36,
+      "count": 35,
       "share": 14,
       "new7d": 2,
-      "delta7d": -2,
-      "deltaPct": -50,
+      "delta7d": -1,
+      "deltaPct": -33,
       "companies": [
         {
           "name": "크래프톤",
@@ -264,7 +264,7 @@
         },
         {
           "name": "당근",
-          "count": 6
+          "count": 5
         },
         {
           "name": "채널톡",
@@ -272,6 +272,39 @@
         },
         {
           "name": "몰로코",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "slug": "azure",
+      "name": "Azure",
+      "category": "인프라",
+      "blurb": "엔터프라이즈 환경에서 널리 쓰이는 클라우드 플랫폼입니다.",
+      "count": 27,
+      "share": 11,
+      "new7d": 0,
+      "delta7d": -1,
+      "deltaPct": -100,
+      "companies": [
+        {
+          "name": "쿠팡",
+          "count": 8
+        },
+        {
+          "name": "크래프톤",
+          "count": 5
+        },
+        {
+          "name": "Databricks",
+          "count": 4
+        },
+        {
+          "name": "루닛",
+          "count": 2
+        },
+        {
+          "name": "Xsolla",
           "count": 2
         }
       ]
@@ -305,39 +338,6 @@
         },
         {
           "name": "Gauss Labs",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "slug": "azure",
-      "name": "Azure",
-      "category": "인프라",
-      "blurb": "엔터프라이즈 환경에서 널리 쓰이는 클라우드 플랫폼입니다.",
-      "count": 26,
-      "share": 10,
-      "new7d": 1,
-      "delta7d": 1,
-      "deltaPct": null,
-      "companies": [
-        {
-          "name": "쿠팡",
-          "count": 8
-        },
-        {
-          "name": "크래프톤",
-          "count": 4
-        },
-        {
-          "name": "Databricks",
-          "count": 4
-        },
-        {
-          "name": "루닛",
-          "count": 2
-        },
-        {
-          "name": "Xsolla",
           "count": 2
         }
       ]
@@ -380,19 +380,19 @@
       "name": "TypeScript",
       "category": "언어",
       "blurb": "프론트엔드와 Node.js 백엔드에서 타입 안정성을 위해 널리 사용됩니다.",
-      "count": 21,
+      "count": 20,
       "share": 8,
       "new7d": 2,
-      "delta7d": 0,
-      "deltaPct": 0,
+      "delta7d": 1,
+      "deltaPct": 100,
       "companies": [
-        {
-          "name": "당근",
-          "count": 4
-        },
         {
           "name": "쿠팡",
           "count": 4
+        },
+        {
+          "name": "당근",
+          "count": 3
         },
         {
           "name": "크래프톤",
@@ -446,15 +446,15 @@
       "name": "Docker",
       "category": "인프라",
       "blurb": "개발·배포 환경을 통일하는 기본 도구입니다.",
-      "count": 18,
-      "share": 7,
-      "new7d": 0,
-      "delta7d": 0,
+      "count": 19,
+      "share": 8,
+      "new7d": 1,
+      "delta7d": 1,
       "deltaPct": null,
       "companies": [
         {
           "name": "쿠팡",
-          "count": 10
+          "count": 11
         },
         {
           "name": "채널톡",
@@ -482,8 +482,8 @@
       "count": 17,
       "share": 7,
       "new7d": 3,
-      "delta7d": 2,
-      "deltaPct": 200,
+      "delta7d": 3,
+      "deltaPct": null,
       "companies": [
         {
           "name": "쿠팡",
@@ -512,7 +512,7 @@
       "name": "Anthropic / Claude",
       "category": "데이터/AI",
       "blurb": "Claude API 기반 서비스와 AI 에이전트 개발에서 언급됩니다.",
-      "count": 16,
+      "count": 15,
       "share": 6,
       "new7d": 1,
       "delta7d": 0,
@@ -523,10 +523,6 @@
           "count": 4
         },
         {
-          "name": "당근",
-          "count": 3
-        },
-        {
           "name": "크래프톤",
           "count": 3
         },
@@ -535,33 +531,12 @@
           "count": 3
         },
         {
+          "name": "당근",
+          "count": 2
+        },
+        {
           "name": "몰로코",
           "count": 1
-        }
-      ]
-    },
-    {
-      "slug": "bigquery",
-      "name": "BigQuery",
-      "category": "데이터베이스",
-      "blurb": "GCP의 서버리스 데이터 웨어하우스입니다.",
-      "count": 16,
-      "share": 6,
-      "new7d": 0,
-      "delta7d": -3,
-      "deltaPct": -100,
-      "companies": [
-        {
-          "name": "당근",
-          "count": 8
-        },
-        {
-          "name": "몰로코",
-          "count": 6
-        },
-        {
-          "name": "채널톡",
-          "count": 2
         }
       ]
     },
@@ -599,15 +574,40 @@
       ]
     },
     {
+      "slug": "bigquery",
+      "name": "BigQuery",
+      "category": "데이터베이스",
+      "blurb": "GCP의 서버리스 데이터 웨어하우스입니다.",
+      "count": 15,
+      "share": 6,
+      "new7d": 0,
+      "delta7d": -3,
+      "deltaPct": -100,
+      "companies": [
+        {
+          "name": "당근",
+          "count": 7
+        },
+        {
+          "name": "몰로코",
+          "count": 6
+        },
+        {
+          "name": "채널톡",
+          "count": 2
+        }
+      ]
+    },
+    {
       "slug": "rag",
       "name": "RAG",
       "category": "데이터/AI",
       "blurb": "검색과 생성형 AI를 결합한 사내 지식 서비스에서 주목받습니다.",
       "count": 14,
       "share": 6,
-      "new7d": 4,
-      "delta7d": 4,
-      "deltaPct": null,
+      "new7d": 3,
+      "delta7d": 2,
+      "deltaPct": 200,
       "companies": [
         {
           "name": "크래프톤",
@@ -628,6 +628,39 @@
         {
           "name": "센드버드",
           "count": 2
+        }
+      ]
+    },
+    {
+      "slug": "linux",
+      "name": "Linux",
+      "category": "인프라",
+      "blurb": "서버 운영의 기본이 되는 운영체제입니다.",
+      "count": 13,
+      "share": 5,
+      "new7d": 0,
+      "delta7d": -1,
+      "deltaPct": -100,
+      "companies": [
+        {
+          "name": "쿠팡",
+          "count": 7
+        },
+        {
+          "name": "크래프톤",
+          "count": 2
+        },
+        {
+          "name": "채널톡",
+          "count": 1
+        },
+        {
+          "name": "루닛",
+          "count": 1
+        },
+        {
+          "name": "GitLab",
+          "count": 1
         }
       ]
     },
@@ -656,39 +689,6 @@
         },
         {
           "name": "당근",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "slug": "linux",
-      "name": "Linux",
-      "category": "인프라",
-      "blurb": "서버 운영의 기본이 되는 운영체제입니다.",
-      "count": 12,
-      "share": 5,
-      "new7d": 0,
-      "delta7d": -2,
-      "deltaPct": -100,
-      "companies": [
-        {
-          "name": "쿠팡",
-          "count": 7
-        },
-        {
-          "name": "크래프톤",
-          "count": 1
-        },
-        {
-          "name": "채널톡",
-          "count": 1
-        },
-        {
-          "name": "루닛",
-          "count": 1
-        },
-        {
-          "name": "GitLab",
           "count": 1
         }
       ]
@@ -747,6 +747,39 @@
         },
         {
           "name": "채널톡",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "grafana",
+      "name": "Grafana",
+      "category": "인프라",
+      "blurb": "메트릭·로그 시각화 대시보드 도구입니다.",
+      "count": 11,
+      "share": 4,
+      "new7d": 0,
+      "delta7d": -2,
+      "deltaPct": -100,
+      "companies": [
+        {
+          "name": "당근",
+          "count": 3
+        },
+        {
+          "name": "쿠팡",
+          "count": 3
+        },
+        {
+          "name": "크래프톤",
+          "count": 3
+        },
+        {
+          "name": "Gauss Labs",
+          "count": 1
+        },
+        {
+          "name": "루닛",
           "count": 1
         }
       ]
@@ -863,39 +896,6 @@
         },
         {
           "name": "쿠팡",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "slug": "grafana",
-      "name": "Grafana",
-      "category": "인프라",
-      "blurb": "메트릭·로그 시각화 대시보드 도구입니다.",
-      "count": 10,
-      "share": 4,
-      "new7d": 0,
-      "delta7d": -2,
-      "deltaPct": -100,
-      "companies": [
-        {
-          "name": "당근",
-          "count": 3
-        },
-        {
-          "name": "쿠팡",
-          "count": 3
-        },
-        {
-          "name": "크래프톤",
-          "count": 2
-        },
-        {
-          "name": "Gauss Labs",
-          "count": 1
-        },
-        {
-          "name": "루닛",
           "count": 1
         }
       ]
@@ -1029,18 +1029,18 @@
       ]
     },
     {
-      "slug": "openai",
-      "name": "OpenAI API",
-      "category": "데이터/AI",
-      "blurb": "GPT API를 활용한 제품 개발 공고에서 자주 등장합니다.",
+      "slug": "prometheus",
+      "name": "Prometheus",
+      "category": "인프라",
+      "blurb": "클라우드 네이티브 모니터링의 표준입니다.",
       "count": 7,
       "share": 3,
       "new7d": 0,
-      "delta7d": -1,
-      "deltaPct": -100,
+      "delta7d": 0,
+      "deltaPct": null,
       "companies": [
         {
-          "name": "당근",
+          "name": "쿠팡",
           "count": 2
         },
         {
@@ -1048,15 +1048,15 @@
           "count": 2
         },
         {
-          "name": "쿠팡",
+          "name": "Gauss Labs",
           "count": 1
         },
         {
-          "name": "Databricks",
+          "name": "루닛",
           "count": 1
         },
         {
-          "name": "채널톡",
+          "name": "당근",
           "count": 1
         }
       ]
@@ -1093,9 +1093,9 @@
       "blurb": "텍스트 이해·생성 모델을 다루는 분야입니다.",
       "count": 6,
       "share": 2,
-      "new7d": 1,
-      "delta7d": 1,
-      "deltaPct": null,
+      "new7d": 0,
+      "delta7d": -1,
+      "deltaPct": -100,
       "companies": [
         {
           "name": "당근",
@@ -1158,6 +1158,39 @@
       ]
     },
     {
+      "slug": "openai",
+      "name": "OpenAI API",
+      "category": "데이터/AI",
+      "blurb": "GPT API를 활용한 제품 개발 공고에서 자주 등장합니다.",
+      "count": 6,
+      "share": 2,
+      "new7d": 0,
+      "delta7d": -1,
+      "deltaPct": -100,
+      "companies": [
+        {
+          "name": "크래프톤",
+          "count": 2
+        },
+        {
+          "name": "당근",
+          "count": 1
+        },
+        {
+          "name": "쿠팡",
+          "count": 1
+        },
+        {
+          "name": "Databricks",
+          "count": 1
+        },
+        {
+          "name": "채널톡",
+          "count": 1
+        }
+      ]
+    },
+    {
       "slug": "recommendation",
       "name": "추천 시스템",
       "category": "데이터/AI",
@@ -1175,39 +1208,6 @@
         {
           "name": "당근",
           "count": 3
-        }
-      ]
-    },
-    {
-      "slug": "prometheus",
-      "name": "Prometheus",
-      "category": "인프라",
-      "blurb": "클라우드 네이티브 모니터링의 표준입니다.",
-      "count": 6,
-      "share": 2,
-      "new7d": 0,
-      "delta7d": 0,
-      "deltaPct": null,
-      "companies": [
-        {
-          "name": "쿠팡",
-          "count": 2
-        },
-        {
-          "name": "Gauss Labs",
-          "count": 1
-        },
-        {
-          "name": "크래프톤",
-          "count": 1
-        },
-        {
-          "name": "루닛",
-          "count": 1
-        },
-        {
-          "name": "당근",
-          "count": 1
         }
       ]
     },
@@ -1278,27 +1278,6 @@
         },
         {
           "name": "채널톡",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "slug": "dynamodb",
-      "name": "DynamoDB",
-      "category": "데이터베이스",
-      "blurb": "AWS의 완전관리형 NoSQL 데이터베이스입니다.",
-      "count": 5,
-      "share": 2,
-      "new7d": 0,
-      "delta7d": -1,
-      "deltaPct": -100,
-      "companies": [
-        {
-          "name": "당근",
-          "count": 4
-        },
-        {
-          "name": "쿠팡",
           "count": 1
         }
       ]
@@ -1425,10 +1404,10 @@
       ]
     },
     {
-      "slug": "fastapi",
-      "name": "FastAPI",
-      "category": "백엔드",
-      "blurb": "Python 비동기 API 서버와 AI 서빙에서 채택이 늘고 있습니다.",
+      "slug": "dynamodb",
+      "name": "DynamoDB",
+      "category": "데이터베이스",
+      "blurb": "AWS의 완전관리형 NoSQL 데이터베이스입니다.",
       "count": 4,
       "share": 2,
       "new7d": 0,
@@ -1437,14 +1416,10 @@
       "companies": [
         {
           "name": "당근",
-          "count": 2
+          "count": 3
         },
         {
-          "name": "루닛",
-          "count": 1
-        },
-        {
-          "name": "센드버드",
+          "name": "쿠팡",
           "count": 1
         }
       ]
@@ -1525,26 +1500,26 @@
       ]
     },
     {
-      "slug": "vector-db",
-      "name": "벡터 DB",
-      "category": "데이터/AI",
-      "blurb": "RAG와 시맨틱 검색을 위한 벡터 데이터베이스 수요입니다.",
+      "slug": "fastapi",
+      "name": "FastAPI",
+      "category": "백엔드",
+      "blurb": "Python 비동기 API 서버와 AI 서빙에서 채택이 늘고 있습니다.",
       "count": 3,
       "share": 1,
       "new7d": 0,
-      "delta7d": 0,
-      "deltaPct": null,
+      "delta7d": -1,
+      "deltaPct": -100,
       "companies": [
-        {
-          "name": "쿠팡",
-          "count": 1
-        },
         {
           "name": "당근",
           "count": 1
         },
         {
-          "name": "크래프톤",
+          "name": "루닛",
+          "count": 1
+        },
+        {
+          "name": "센드버드",
           "count": 1
         }
       ]
@@ -1675,6 +1650,27 @@
         },
         {
           "name": "루닛",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "vector-db",
+      "name": "벡터 DB",
+      "category": "데이터/AI",
+      "blurb": "RAG와 시맨틱 검색을 위한 벡터 데이터베이스 수요입니다.",
+      "count": 2,
+      "share": 1,
+      "new7d": 0,
+      "delta7d": 0,
+      "deltaPct": null,
+      "companies": [
+        {
+          "name": "쿠팡",
+          "count": 1
+        },
+        {
+          "name": "크래프톤",
           "count": 1
         }
       ]
@@ -1858,23 +1854,6 @@
       ]
     },
     {
-      "slug": "tailwind",
-      "name": "Tailwind CSS",
-      "category": "프론트엔드",
-      "blurb": "유틸리티 클래스 기반 CSS 프레임워크입니다.",
-      "count": 1,
-      "share": 0,
-      "new7d": 0,
-      "delta7d": 0,
-      "deltaPct": null,
-      "companies": [
-        {
-          "name": "당근",
-          "count": 1
-        }
-      ]
-    },
-    {
       "slug": "unreal",
       "name": "Unreal Engine",
       "category": "게임",
@@ -1948,14 +1927,14 @@
       "slug": "engineering",
       "name": "소프트웨어 엔지니어링",
       "blurb": "직무가 세분화되지 않은 소프트웨어 개발 직군입니다.",
-      "count": 50,
-      "share": 20
+      "count": 49,
+      "share": 19
     },
     {
       "slug": "ml",
       "name": "ML / AI",
       "blurb": "모델 연구·학습·평가와 AI 제품화를 담당합니다.",
-      "count": 35,
+      "count": 36,
       "share": 14
     },
     {
@@ -1976,7 +1955,7 @@
       "slug": "security",
       "name": "보안",
       "blurb": "애플리케이션과 인프라 보안을 담당합니다.",
-      "count": 29,
+      "count": 31,
       "share": 12
     },
     {
@@ -1984,7 +1963,7 @@
       "name": "모바일",
       "blurb": "iOS·Android 앱을 개발하는 직군입니다.",
       "count": 24,
-      "share": 10
+      "share": 9
     },
     {
       "slug": "devops",
@@ -2033,19 +2012,19 @@
     {
       "key": "unknown",
       "name": "직함 미표기",
-      "count": 111,
-      "share": 44
+      "count": 110,
+      "share": 43
     },
     {
       "key": "senior",
       "name": "시니어",
-      "count": 93,
-      "share": 37
+      "count": 95,
+      "share": 38
     },
     {
       "key": "lead",
       "name": "리드/임원",
-      "count": 29,
+      "count": 30,
       "share": 12
     },
     {
@@ -2071,20 +2050,20 @@
     {
       "key": "onsite",
       "name": "현장",
-      "count": 151,
+      "count": 152,
       "share": 60
     },
     {
       "key": "remote",
       "name": "원격",
       "count": 54,
-      "share": 22
+      "share": 21
     },
     {
       "key": "hybrid",
       "name": "하이브리드",
-      "count": 46,
-      "share": 18
+      "count": 47,
+      "share": 19
     }
   ],
   "companies": [
@@ -2095,11 +2074,11 @@
       "homepage": "https://www.coupang.com",
       "careers": "https://www.coupang.jobs",
       "description": "이커머스와 물류를 아우르는 국내 대표 플랫폼",
-      "jobCount": 75,
+      "jobCount": 77,
       "aiCount": 10,
-      "remoteCount": 7,
-      "posted7d": 3,
-      "latestPostedAt": "2026-11-25",
+      "remoteCount": 8,
+      "posted7d": 5,
+      "latestPostedAt": "2026-11-26",
       "topStacks": [
         {
           "slug": "python",
@@ -2109,7 +2088,7 @@
         {
           "slug": "aws",
           "name": "AWS",
-          "count": 29
+          "count": 30
         },
         {
           "slug": "java",
@@ -2119,7 +2098,7 @@
         {
           "slug": "kubernetes",
           "name": "Kubernetes",
-          "count": 18
+          "count": 19
         },
         {
           "slug": "kotlin",
@@ -2131,7 +2110,7 @@
         {
           "slug": "security",
           "name": "보안",
-          "count": 20
+          "count": 22
         },
         {
           "slug": "backend",
@@ -2209,8 +2188,8 @@
       "homepage": "https://www.daangn.com",
       "careers": "https://careers.daangn.com",
       "description": "동네 기반 중고거래·커뮤니티 서비스",
-      "jobCount": 30,
-      "aiCount": 4,
+      "jobCount": 29,
+      "aiCount": 3,
       "remoteCount": 1,
       "posted7d": 0,
       "latestPostedAt": "2026-11-19",
@@ -2218,12 +2197,12 @@
         {
           "slug": "llm",
           "name": "LLM",
-          "count": 13
+          "count": 12
         },
         {
           "slug": "kubernetes",
           "name": "Kubernetes",
-          "count": 11
+          "count": 10
         },
         {
           "slug": "kotlin",
@@ -2236,9 +2215,9 @@
           "count": 9
         },
         {
-          "slug": "python",
-          "name": "Python",
-          "count": 9
+          "slug": "kafka",
+          "name": "Kafka",
+          "count": 8
         }
       ],
       "roles": [
@@ -2266,8 +2245,8 @@
       "homepage": "https://www.krafton.com",
       "careers": "https://www.krafton.com/careers",
       "description": "배틀그라운드로 대표되는 게임·AI 기업",
-      "jobCount": 23,
-      "aiCount": 14,
+      "jobCount": 24,
+      "aiCount": 15,
       "remoteCount": 1,
       "posted7d": 1,
       "latestPostedAt": "2026-11-24",
@@ -2275,7 +2254,7 @@
         {
           "slug": "llm",
           "name": "LLM",
-          "count": 18
+          "count": 19
         },
         {
           "slug": "agent",
@@ -2290,19 +2269,19 @@
         {
           "slug": "kubernetes",
           "name": "Kubernetes",
-          "count": 7
+          "count": 8
         },
         {
           "slug": "aws",
           "name": "AWS",
-          "count": 5
+          "count": 6
         }
       ],
       "roles": [
         {
           "slug": "ml",
           "name": "ML / AI",
-          "count": 6
+          "count": 7
         },
         {
           "slug": "security",
@@ -3117,7 +3096,7 @@
       "jobCount": 1,
       "aiCount": 0,
       "remoteCount": 0,
-      "posted7d": 1,
+      "posted7d": 0,
       "latestPostedAt": "2026-11-20",
       "topStacks": [
         {
@@ -3198,11 +3177,6 @@
     }
   ],
   "dailyNew": [
-    {
-      "date": "2026-10-28",
-      "jobs": 0,
-      "ai": 0
-    },
     {
       "date": "2026-10-29",
       "jobs": 1,
@@ -3345,6 +3319,11 @@
     },
     {
       "date": "2026-11-26",
+      "jobs": 2,
+      "ai": 0
+    },
+    {
+      "date": "2026-11-27",
       "jobs": 0,
       "ai": 0
     }
@@ -3629,9 +3608,9 @@
       "start": "2026-11-23",
       "end": "2026-11-29",
       "partial": true,
-      "jobs": 44,
-      "aiShare": 43,
-      "remoteShare": 91,
+      "jobs": 46,
+      "aiShare": 41,
+      "remoteShare": 89,
       "topStacks": [
         {
           "slug": "kotlin",
@@ -3664,6 +3643,48 @@
     }
   ],
   "recentJobs": [
+    {
+      "id": "greenhouse:coupang:8418706",
+      "source": "greenhouse",
+      "company": "쿠팡",
+      "companySlug": "coupang",
+      "companyType": "korean",
+      "title": "Director, Global Security_Governance & Program Management",
+      "location": "Seoul, South Korea",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8418706",
+      "postedAt": "2026-11-26",
+      "employmentType": "",
+      "role": "security",
+      "roleName": "보안",
+      "isTech": true,
+      "seniority": "lead",
+      "remote": "onsite",
+      "stacks": [],
+      "isAi": false
+    },
+    {
+      "id": "greenhouse:coupang:8412883",
+      "source": "greenhouse",
+      "company": "쿠팡",
+      "companySlug": "coupang",
+      "companyType": "korean",
+      "title": "Staff Security Architect (Global Operations & Transportation)",
+      "location": "Seoul, South Korea",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8412883",
+      "postedAt": "2026-11-26",
+      "employmentType": "",
+      "role": "security",
+      "roleName": "보안",
+      "isTech": true,
+      "seniority": "senior",
+      "remote": "hybrid",
+      "stacks": [
+        "aws",
+        "kubernetes",
+        "docker"
+      ],
+      "isAi": false
+    },
     {
       "id": "greenhouse:coupang:8416015",
       "source": "greenhouse",
@@ -3872,44 +3893,6 @@
       "title": "Staff Software Engineer",
       "location": "Seoul, Korea, Seoul South Korea Seoul",
       "url": "https://jobs.ashbyhq.com/bjakcareer/fc5e4b22-b2ff-4a2f-8926-2bac5326ed58",
-      "postedAt": "2026-11-24",
-      "employmentType": "FullTime",
-      "role": "engineering",
-      "roleName": "소프트웨어 엔지니어링",
-      "isTech": true,
-      "seniority": "senior",
-      "remote": "remote",
-      "stacks": [],
-      "isAi": false
-    },
-    {
-      "id": "ashby:bjak:75295b20-9901-473e-aefb-15a7c1afde98",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Lead Software Engineer",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/75295b20-9901-473e-aefb-15a7c1afde98",
-      "postedAt": "2026-11-24",
-      "employmentType": "FullTime",
-      "role": "engineering",
-      "roleName": "소프트웨어 엔지니어링",
-      "isTech": true,
-      "seniority": "lead",
-      "remote": "remote",
-      "stacks": [],
-      "isAi": false
-    },
-    {
-      "id": "ashby:bjak:90191e0c-47ea-42ab-9817-e03b6057599f",
-      "source": "ashby",
-      "company": "BJAK",
-      "companySlug": "bjak",
-      "companyType": "global",
-      "title": "Principal Software Engineer",
-      "location": "Seoul, Korea, Seoul South Korea Seoul",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/90191e0c-47ea-42ab-9817-e03b6057599f",
       "postedAt": "2026-11-24",
       "employmentType": "FullTime",
       "role": "engineering",
