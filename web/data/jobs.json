@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-11-27T03:30:50+00:00",
-  "allKoreaJobs": 743,
+  "generatedAt": "2026-11-28T03:06:30+00:00",
+  "allKoreaJobs": 744,
   "techJobs": 253,
   "jobs": [
+    {
+      "id": "greenhouse:coupang:8420251",
+      "company": "쿠팡",
+      "companySlug": "coupang",
+      "companyType": "korean",
+      "title": "Director, Backend Engineering (Rocket Pay)",
+      "location": "Seoul, South Korea",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8420251",
+      "postedAt": "2026-11-27",
+      "employmentType": "",
+      "role": "backend",
+      "roleName": "백엔드",
+      "seniority": "lead",
+      "remote": "onsite",
+      "stacks": [
+        "java",
+        "kotlin",
+        "spark",
+        "airflow",
+        "hadoop",
+        "aws",
+        "kubernetes",
+        "kafka",
+        "cassandra"
+      ],
+      "isAi": false
+    },
+    {
+      "id": "greenhouse:coupang:8420257",
+      "company": "쿠팡",
+      "companySlug": "coupang",
+      "companyType": "korean",
+      "title": "Senior Staff, Back-end Engineer (Rocket Pay)",
+      "location": "Seoul, South Korea",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8420257",
+      "postedAt": "2026-11-27",
+      "employmentType": "",
+      "role": "backend",
+      "roleName": "백엔드",
+      "seniority": "senior",
+      "remote": "onsite",
+      "stacks": [
+        "java",
+        "kotlin"
+      ],
+      "isAi": false
+    },
+    {
+      "id": "greenhouse:coupang:8418436",
+      "company": "쿠팡",
+      "companySlug": "coupang",
+      "companyType": "korean",
+      "title": "Sr. Security Automation Engineer (Detection Engineering)",
+      "location": "Seoul, South Korea",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8418436",
+      "postedAt": "2026-11-27",
+      "employmentType": "",
+      "role": "security",
+      "roleName": "보안",
+      "seniority": "senior",
+      "remote": "onsite",
+      "stacks": [
+        "python",
+        "rust",
+        "llm",
+        "langchain",
+        "agent",
+        "aws",
+        "kubernetes"
+      ],
+      "isAi": false
+    },
     {
       "id": "greenhouse:coupang:8418706",
       "company": "쿠팡",
@@ -158,27 +230,6 @@
       "seniority": "unknown",
       "remote": "remote",
       "stacks": [],
-      "isAi": true
-    },
-    {
-      "id": "greenhouse:krafton:8950930002",
-      "company": "크래프톤",
-      "companySlug": "krafton",
-      "companyType": "korean",
-      "title": "[AI Frontier Div.] ML Engineer - Vertical Model (2년 이상)",
-      "location": "Seoul; Seoul, South Korea",
-      "url": "https://job-boards.greenhouse.io/krafton/jobs/8950930002",
-      "postedAt": "2026-11-24",
-      "employmentType": "Regular",
-      "role": "ml",
-      "roleName": "ML / AI",
-      "seniority": "unknown",
-      "remote": "onsite",
-      "stacks": [
-        "pytorch",
-        "llm",
-        "mlops"
-      ],
       "isAi": true
     },
     {
@@ -2143,26 +2194,6 @@
       "isAi": false
     },
     {
-      "id": "greenhouse:krafton:8883195002",
-      "company": "크래프톤",
-      "companySlug": "krafton",
-      "companyType": "korean",
-      "title": "[AI Frontier Div.] AI Inference Platform & Operations Engineer (5년 이상)",
-      "location": "Seoul; Seoul, South Korea",
-      "url": "https://job-boards.greenhouse.io/krafton/jobs/8883195002",
-      "postedAt": "2026-10-21",
-      "employmentType": "Regular",
-      "role": "devops",
-      "roleName": "DevOps / 인프라",
-      "seniority": "senior",
-      "remote": "onsite",
-      "stacks": [
-        "llm",
-        "kubernetes"
-      ],
-      "isAi": true
-    },
-    {
       "id": "greenhouse:krafton:8883198002",
       "company": "크래프톤",
       "companySlug": "krafton",
@@ -3157,32 +3188,6 @@
       "stacks": [
         "swift",
         "flutter"
-      ],
-      "isAi": false
-    },
-    {
-      "id": "greenhouse:coupang:8188042",
-      "company": "쿠팡",
-      "companySlug": "coupang",
-      "companyType": "korean",
-      "title": "Staff, Security Data Platform Engineer",
-      "location": "Seoul, South Korea",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8188042",
-      "postedAt": "2026-09-09",
-      "employmentType": "",
-      "role": "security",
-      "roleName": "보안",
-      "seniority": "senior",
-      "remote": "onsite",
-      "stacks": [
-        "python",
-        "airflow",
-        "dbt",
-        "llm",
-        "aws",
-        "kubernetes",
-        "terraform",
-        "kafka"
       ],
       "isAi": false
     },
@@ -4413,6 +4418,26 @@
       "isAi": false
     },
     {
+      "id": "greenhouse:daangn:7675338003",
+      "company": "당근",
+      "companySlug": "daangn",
+      "companyType": "korean",
+      "title": "Software Engineer, Backend - 로컬 잡스 (레슨/과외 팀)",
+      "location": "SEOUL",
+      "url": "https://about.daangn.com?gh_jid=7675338003",
+      "postedAt": "2026-03-23",
+      "employmentType": "정규직",
+      "role": "backend",
+      "roleName": "백엔드",
+      "seniority": "unknown",
+      "remote": "onsite",
+      "stacks": [
+        "graphql",
+        "nodejs"
+      ],
+      "isAi": false
+    },
+    {
       "id": "greenhouse:daangn:7668837003",
       "company": "당근",
       "companySlug": "daangn",
@@ -4427,36 +4452,6 @@
       "seniority": "unknown",
       "remote": "onsite",
       "stacks": [],
-      "isAi": false
-    },
-    {
-      "id": "greenhouse:daangn:7659289003",
-      "company": "당근",
-      "companySlug": "daangn",
-      "companyType": "korean",
-      "title": "Software Engineer, Backend - 나의당근",
-      "location": "SEOUL",
-      "url": "https://about.daangn.com?gh_jid=7659289003",
-      "postedAt": "2026-03-09",
-      "employmentType": "정규직",
-      "role": "backend",
-      "roleName": "백엔드",
-      "seniority": "unknown",
-      "remote": "onsite",
-      "stacks": [
-        "kotlin",
-        "grpc",
-        "spring",
-        "llm",
-        "aws",
-        "kubernetes",
-        "grafana",
-        "kafka",
-        "redis",
-        "mysql",
-        "dynamodb",
-        "bigquery"
-      ],
       "isAi": false
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T03:30:50+00:00",
+  "generatedAt": "2026-11-28T03:06:30+00:00",
   "reports": [
     {
       "slug": "2026-w48",
@@ -9,23 +9,23 @@
       "end": "2026-11-29",
       "partial": true,
       "title": "2026년 11월 4주차 테크 채용 리포트",
-      "summary": "2026년 11월 4주차(11/23~11/29) 국내 테크 기업의 신규 개발 공고는 46건이었습니다. 가장 많이 언급된 스택은 Kotlin(8건), 가장 많은 직군은 소프트웨어 엔지니어링(23건)입니다.",
+      "summary": "2026년 11월 4주차(11/23~11/29) 국내 테크 기업의 신규 개발 공고는 48건이었습니다. 가장 많이 언급된 스택은 Kotlin(10건), 가장 많은 직군은 소프트웨어 엔지니어링(23건)입니다.",
       "sections": [
         {
           "heading": "이번 주 숫자",
-          "body": "신규 개발 공고 46건, AI 관련 19건(41%), 원격·하이브리드 41건(89%)입니다."
+          "body": "신규 개발 공고 48건, AI 관련 18건(38%), 원격·하이브리드 41건(85%)입니다."
         },
         {
           "heading": "스택 Top 5",
-          "body": "Kotlin 8건, Python 6건, LLM 5건, TensorFlow 4건, Swift 4건"
+          "body": "Kotlin 10건, Python 7건, AWS 5건, Kubernetes 5건, LLM 5건"
         },
         {
           "heading": "직군 분포",
-          "body": "소프트웨어 엔지니어링 23건, 모바일 11건, 보안 4건"
+          "body": "소프트웨어 엔지니어링 23건, 모바일 11건, 보안 5건"
         },
         {
           "heading": "기업별 신규 공고",
-          "body": "BJAK 38건, 쿠팡 5건, 몰로코 1건, 크래프톤 1건, 채널톡 1건"
+          "body": "BJAK 38건, 쿠팡 8건, 몰로코 1건, 채널톡 1건"
         },
         {
           "heading": "관찰",
@@ -33,35 +33,35 @@
         }
       ],
       "stats": {
-        "jobs": 46,
-        "aiJobs": 19,
-        "aiShare": 41,
-        "remoteShare": 89,
+        "jobs": 48,
+        "aiJobs": 18,
+        "aiShare": 38,
+        "remoteShare": 85,
         "topStacks": [
           {
             "slug": "kotlin",
             "name": "Kotlin",
-            "count": 8
+            "count": 10
           },
           {
             "slug": "python",
             "name": "Python",
-            "count": 6
+            "count": 7
+          },
+          {
+            "slug": "aws",
+            "name": "AWS",
+            "count": 5
+          },
+          {
+            "slug": "kubernetes",
+            "name": "Kubernetes",
+            "count": 5
           },
           {
             "slug": "llm",
             "name": "LLM",
             "count": 5
-          },
-          {
-            "slug": "tensorflow",
-            "name": "TensorFlow",
-            "count": 4
-          },
-          {
-            "slug": "swift",
-            "name": "Swift",
-            "count": 4
           }
         ],
         "topRoles": [
@@ -78,7 +78,7 @@
           {
             "slug": "security",
             "name": "보안",
-            "count": 4
+            "count": 5
           }
         ],
         "topCompanies": [
@@ -90,16 +90,11 @@
           {
             "slug": "coupang",
             "name": "쿠팡",
-            "count": 5
+            "count": 8
           },
           {
             "slug": "moloco",
             "name": "몰로코",
-            "count": 1
-          },
-          {
-            "slug": "krafton",
-            "name": "크래프톤",
             "count": 1
           },
           {
@@ -544,23 +539,23 @@
       "end": "2026-10-25",
       "partial": false,
       "title": "2026년 10월 3주차 테크 채용 리포트",
-      "summary": "2026년 10월 3주차(10/19~10/25) 국내 테크 기업의 신규 개발 공고는 7건이었습니다. 가장 많이 언급된 스택은 Kubernetes(4건), 가장 많은 직군은 DevOps / 인프라(2건)입니다.",
+      "summary": "2026년 10월 3주차(10/19~10/25) 국내 테크 기업의 신규 개발 공고는 6건이었습니다. 가장 많이 언급된 스택은 Kubernetes(3건), 가장 많은 직군은 모바일(1건)입니다.",
       "sections": [
         {
           "heading": "이번 주 숫자",
-          "body": "신규 개발 공고 7건, AI 관련 2건(29%), 원격·하이브리드 1건(14%)입니다."
+          "body": "신규 개발 공고 6건, AI 관련 1건(17%), 원격·하이브리드 1건(17%)입니다."
         },
         {
           "heading": "스택 Top 5",
-          "body": "Kubernetes 4건, Python 2건, Java 2건, LLM 2건, Rust 1건"
+          "body": "Kubernetes 3건, Python 2건, Java 2건, Rust 1건, C++ 1건"
         },
         {
           "heading": "직군 분포",
-          "body": "DevOps / 인프라 2건, 모바일 1건, 소프트웨어 엔지니어링 1건"
+          "body": "모바일 1건, 소프트웨어 엔지니어링 1건, DevOps / 인프라 1건"
         },
         {
           "heading": "기업별 신규 공고",
-          "body": "쿠팡 3건, 크래프톤 2건, Gauss Labs 1건, Figma 1건"
+          "body": "쿠팡 3건, Gauss Labs 1건, 크래프톤 1건, Figma 1건"
         },
         {
           "heading": "관찰",
@@ -568,15 +563,15 @@
         }
       ],
       "stats": {
-        "jobs": 7,
-        "aiJobs": 2,
-        "aiShare": 29,
-        "remoteShare": 14,
+        "jobs": 6,
+        "aiJobs": 1,
+        "aiShare": 17,
+        "remoteShare": 17,
         "topStacks": [
           {
             "slug": "kubernetes",
             "name": "Kubernetes",
-            "count": 4
+            "count": 3
           },
           {
             "slug": "python",
@@ -589,22 +584,17 @@
             "count": 2
           },
           {
-            "slug": "llm",
-            "name": "LLM",
-            "count": 2
-          },
-          {
             "slug": "rust",
             "name": "Rust",
+            "count": 1
+          },
+          {
+            "slug": "cpp",
+            "name": "C++",
             "count": 1
           }
         ],
         "topRoles": [
-          {
-            "slug": "devops",
-            "name": "DevOps / 인프라",
-            "count": 2
-          },
           {
             "slug": "mobile",
             "name": "모바일",
@@ -613,6 +603,11 @@
           {
             "slug": "engineering",
             "name": "소프트웨어 엔지니어링",
+            "count": 1
+          },
+          {
+            "slug": "devops",
+            "name": "DevOps / 인프라",
             "count": 1
           }
         ],
@@ -623,13 +618,13 @@
             "count": 3
           },
           {
-            "slug": "krafton",
-            "name": "크래프톤",
-            "count": 2
-          },
-          {
             "slug": "gauss-labs",
             "name": "Gauss Labs",
+            "count": 1
+          },
+          {
+            "slug": "krafton",
+            "name": "크래프톤",
             "count": 1
           },
           {
